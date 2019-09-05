@@ -1,0 +1,566 @@
+,orig.ident,nCount_RNA,nFeature_RNA,tissue,class,class_marker,type_marker,full_name,common_name,subcluster,tissue_subcluster
+CB_1-1,CB,8818601,12487,CB,NEURON,Slc17a7,Gabra6,Neuron.Slc17a7.Gabra6,Granule cells,1-1,CB_1-1
+CB_10-1,CB,114831,8339,CB,ENDOTHELIAL_STALK,Flt1,Mgp,Endothelial_Stalk.Flt1.Mgp,Endothelial_Stalk.Flt1.Mgp,10-1,CB_10-1
+CB_10-2,CB,119287,8370,CB,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,10-2,CB_10-2
+CB_10-3,CB,109394,8505,CB,ENDOTHELIAL_STALK,Flt1,Lrg1,Endothelial_Stalk.Flt1.Lrg1,Endothelial_Stalk.Flt1.Lrg1,10-3,CB_10-3
+CB_11-1,CB,70316,7408,CB,ENDOTHELIAL_TIP,Dcn,Nnat,Endothelial_Tip.Dcn.Nnat,Endothelial_Tip.Dcn.Nnat,11-1,CB_11-1
+CB_11-2,CB,45003,6265,CB,ENDOTHELIAL_TIP,Dcn,Apod,Endothelial_Tip.Dcn.Apod,Endothelial_Tip.Dcn.Apod,11-2,CB_11-2
+CB_11-3,CB,56219,6944,CB,MURAL,Acta2Rgs5,Acta2,Mural.Acta2Rgs5.Acta2,Mural.Acta2Rgs5.Acta2,11-3,CB_11-3
+CB_11-4,CB,21272,4944,CB,MURAL,Acta2Rgs5,Kcnj8,Mural.Acta2Rgs5.Kcnj8,Mural.Acta2Rgs5.Kcnj8,11-4,CB_11-4
+CB_11-5,CB,20130,4753,CB,MURAL,Acta2Rgs5,Rgs5,Mural.Acta2Rgs5.Rgs5,Mural.Acta2Rgs5.Rgs5,11-5,CB_11-5
+CB_2-1,CB,618513,9878,CB,NEURON,Gad1Gad2,Pcp2,Neuron.Gad1Gad2.Pcp2,Purkinje Neurons,2-1,CB_2-1
+CB_3-1,CB,584636,10306,CB,NEURON,Gad1Gad2,Pvalb-Nefh,Neuron.Gad1Gad2.Pvalb-Nefh,Cerebellum basket cells 1,3-1,CB_3-1
+CB_3-2,CB,284460,9503,CB,NEURON,Gad1Gad2,Pvalb-Rab3b,Neuron.Gad1Gad2.Pvalb-Rab3b,Cerebellum basket cells 2,3-2,CB_3-2
+CB_3-3,CB,133023,8606,CB,NEURON,Gad1Gad2,Pvalb-Cadm1,Neuron.Gad1Gad2.Pvalb-Cadm1,Cerebellum basket cells 3,3-3,CB_3-3
+CB_3-4,CB,114110,8840,CB,NEURON,Gad1Gad2,Pvalb - Chrm2,Neuron.Gad1Gad2.Pvalb-Chrm2,Cerebellum basket cells 4,3-4,CB_3-4
+CB_4-1,CB,156042,8961,CB,NEURON,Slc17a6,Sln,Neuron.Slc17a6.Sln,Unipolar brush cell,4-1,CB_4-1
+CB_4-2,CB,178055,9294,CB,NEURON,Gad1Gad2,Lgi2,Neuron.Gad1Gad2.Lgi2,Golgi interneuron,4-2,CB_4-2
+CB_4-3,CB,59699,7836,CB,NEURON,Slc17a6,Nrgn,Neuron.Slc17a6.Nrgn,Inferior colliculus,4-3,CB_4-3
+CB_5-1,CB,33321,6420,CB,MICROGLIA,C1qb,Mrc1-Tmem119,Microglia.C1qb.Mrc1-Tmem119,Resident macrophage,5-1,CB_5-1
+CB_6-1,CB,236534,9354,CB,OLIGODENDROCYTE,Trf,Il33,Oligodendroyte.Trf.Il33,Oligodendroyte.Trf.Il33,6-1,CB_6-1
+CB_6-2,CB,84438,7205,CB,OLIGODENDROCYTE,Trf,Klk6,Oligodendrocyte.Trf.Klk6,Oligodendrocyte.Trf.Klk6,6-2,CB_6-2
+CB_6-3,CB,29836,5381,CB,POLYDENDROCYTE,Tnr,Tnr,Polydendrocyte.Tnr.Tnr,Polydendrocyte.Tnr.Tnr,6-3,CB_6-3
+CB_7-1,CB,1825591,11339,CB,ASTROCYTE,Gja,Slc1a3,Astrocyte.Gja.Slc1a3,Bergmann Glia,7-1,CB_7-1
+CB_8-1,CB,31673,6256,CB,ASTROCYTE,Gja1,Gfap,Gja1.Gfap,Gfap+ astrocytes,8-1,CB_8-1
+CB_8-2,CB,142173,9270,CB,ASTROCYTE,Gja1,Htra1,Gja1.Htra1,Gfap- astrocytes,8-2,CB_8-2
+CB_9-1,CB,143706,8928,CB,CHOROID_PLEXUS,Ttr,Ttr,Choroid_Plexus.Ttr,Choroid_Plexus.Ttr,9-1,CB_9-1
+FC_1-1,FC,1429795,11539,FC,NEURON,Gad1Gad2,Cplx3-Npy,Neuron.Gad1Gad2.Cplx3,Neuron.Gad1Gad2.Cplx3,1-1,FC_1-1
+FC_1-10,FC,623001,10763,FC,NEURON,Gad1Gad2-Slc17a8,Synpr-Sncg-Yjefn3,Neuron.Gad1Gad2-Slc17a8.Synpr-Sncg-Yjefn3,Neuron.Gad1Gad2-Slc17a8.Synpr-Sncg-Yjefn3,1-10,FC_1-10
+FC_1-11,FC,464654,10589,FC,NEURON,Gad1Gad2,Synpr-Sncg,Neuron.Gad1Gad2.Synpr-Sncg,Neuron.Gad1Gad2.Synpr-Sncg,1-11,FC_1-11
+FC_1-2,FC,1021094,11324,FC,NEURON,Gad1Gad2,Cplx3-Reln,Neuron.Gad1Gad2.Cplx3-Reln,Neuron.Gad1Gad2.Cplx3-Reln,1-2,FC_1-2
+FC_1-3,FC,160372,9492,FC,NEURON,Gad1Gad2,Synpr-Nnat,Neuron.Gad1Gad2.Synpr-Nnat,Neuron.Gad1Gad2.Synpr-Nnat,1-3,FC_1-3
+FC_1-4,FC,404745,10452,FC,NEURON,Gad1Gad2,Synpr-Crispld2,Neuron.Gad1Gad2.Synpr-Crispld2,Neuron.Gad1Gad2.Synpr-Crispld2,1-4,FC_1-4
+FC_1-5,FC,623846,11060,FC,NEURON,Gad1Gad2-Chat,Synpr-Slc5a7,Neuron.Gad1Gad2-Chat.Synpr-Slc5a7,Cholinergic cortical  interneurons,1-5,FC_1-5
+FC_1-6,FC,663089,11020,FC,NEURON,Gad1Gad2,Synpr-Pcdh11x,Neuron.Gad1Gad2.Synpr-Pcdh11x,Neuron.Gad1Gad2.Synpr-Pcdh11x,1-6,FC_1-6
+FC_1-7,FC,260251,9919,FC,NEURON,Gad1Gad2,Synpr-Dpy19l1,Neuron.Gad1Gad2.Synpr-Dpy19l1,Neuron.Gad1Gad2.Synpr-Dpy19l1,1-7,FC_1-7
+FC_1-8,FC,115878,8953,FC,NEURON,Gad1Gad2,Cplx3-Dpy19l1,Neuron.Gad1Gad2.Cplx3-Dpy19l1,Neuron.Gad1Gad2.Cplx3-Dpy19l1,1-8,FC_1-8
+FC_1-9,FC,264420,9928,FC,NEURON,Gad1Gad2,Cplx3-Crim1,Neuron.Gad1Gad2.Cplx3-Crim1,Neuron.Gad1Gad2.Cplx3-Crim1,1-9,FC_1-9
+FC_10-1,FC,397047,11139,FC,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,10-1,FC_10-1
+FC_10-2,FC,161623,9755,FC,POLYDENDROCYTE,Tnr,Dlx1,Polydendrocyte.Tnr.Dlx1,Polydendrocyte.Tnr.Dlx1,10-2,FC_10-2
+FC_10-3,FC,423347,10168,FC,POLYDENDROCYTE,Tnr,Pdgfa,Polydendrocyte.Tnr.Pdgfa,Polydendrocyte.Tnr.Pdgfa,10-3,FC_10-3
+FC_10-4,FC,190830,8551,FC,POLYDENDROCYTE,Tnr,Opalin,Polydendrocyte.Tnr.Opalin,Polydendrocyte.Tnr.Opalin,10-4,FC_10-4
+FC_10-5,FC,456044,10455,FC,POLYDENDROCYTE,Tnr,Bmp4- Ptgds,Polydendrocyte.Tnr.Bmp4- Ptgds,Polydendrocyte.Tnr.Bmp4- Ptgds,10-5,FC_10-5
+FC_10-6,FC,270762,10143,FC,POLYDENDROCYTE,Tnr,Bmp4-Gpr17,Polydendrocyte.Tnr.Bmp4-Gpr17,Polydendrocyte.Tnr.Bmp4-Gpr17,10-6,FC_10-6
+FC_11-1,FC,439982,11388,FC,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,11-1,FC_11-1
+FC_11-2,FC,31464,6391,FC,NEURON,Slc17a6,Reln,Neuron.Slc17a6.Reln,Cajal-Retzius,11-2,FC_11-2
+FC_11-3,FC,143186,9449,FC,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,11-3,FC_11-3
+FC_11-4,FC,15202,4884,FC,MICROGLIA,C1qb,Tmem119-Fos,Microglia.C1qb.Tmem119-Fos,Microglia.C1qb.Tmem119-Fos,11-4,FC_11-4
+FC_12-1,FC,2065670,12073,FC,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,12-1,FC_12-1
+FC_12-2,FC,242298,9718,FC,ENDOTHELIAL_STALK,Flt1,Mgp,Endothelial_Stalk.Flt1.Mgp,Endothelial_Stalk.Flt1.Mgp,12-2,FC_12-2
+FC_12-3,FC,1557861,11842,FC,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,12-3,FC_12-3
+FC_12-4,FC,1558289,11847,FC,ENDOTHELIAL_STALK,Flt1,Cfh,Endothelial_Stalk.Flt1.Cfh,Endothelial_Stalk.Flt1.Cfh,12-4,FC_12-4
+FC_12-5,FC,71810,8024,FC,ENDOTHELIAL_STALK,Flt1,Lrg1,Endothelial_Stalk.Flt1.Lrg1,Endothelial_Stalk.Flt1.Lrg1,12-5,FC_12-5
+FC_13-1,FC,441486,10824,FC,MURAL,Rgs5Acta2,Cnn1,Mural.Rgs5Acta2.Cnn1,Mural.Rgs5Acta2.Cnn1,13-1,FC_13-1
+FC_13-2,FC,425121,10849,FC,MURAL,Rgs5Acta2,Ccnd1,Mural.Rgs5Acta2.Ccnd1,Mural.Rgs5Acta2.Ccnd1,13-2,FC_13-2
+FC_13-3,FC,135438,9685,FC,MURAL,Rgs5Acta2,Abcc9,Mural.Rgs5Acta2.Abcc9,Mural.Rgs5Acta2.Abcc9,13-3,FC_13-3
+FC_13-4,FC,83095,8463,FC,MURAL,Rgs5Acta2,Col3a1,Mural.Rgs5Acta2.Col3a1,Mural.Rgs5Acta2.Col3a1,13-4,FC_13-4
+FC_14-1,FC,162175,10018,FC,ENDOTHELIAL_TIP,Dcn,1500015O10Rik,Endothelial_Tip.Dcn.1500015O10Rik,Endothelial_Tip.Dcn.1500015O10Rik,14-1,FC_14-1
+FC_14-2,FC,132348,9632,FC,ENDOTHELIAL_TIP,Dcn,Dapl1,Endothelial_Tip.Dcn.Dapl1,Endothelial_Tip.Dcn.Dapl1,14-2,FC_14-2
+FC_14-3,FC,82074,8761,FC,ENDOTHELIAL_TIP,Dcn,Coch,Endothelial_Tip.Dcn.Coch,Endothelial_Tip.Dcn.Coch,14-3,FC_14-3
+FC_14-4,FC,147043,10183,FC,ENDOTHELIAL_TIP,Dcn,Col15a1,Endothelial_Tip.Dcn.Col15a1,Endothelial_Tip.Dcn.Col15a1,14-4,FC_14-4
+FC_14-5,FC,39511,7121,FC,ENDOTHELIAL_TIP,Dcn,Inmt,Endothelial_Tip.Dcn.Inmt,Endothelial_Tip.Dcn.Inmt,14-5,FC_14-5
+FC_2-1,FC,190408,9383,FC,NEURON,Gad1Gad2,Sst-Chodl,Neuron.Gad1Gad2.Sst-Chodl,MGE-derived cortical interneurons--Long-range-projecting interneurons,2-1,FC_2-1
+FC_2-10,FC,323033,10466,FC,NEURON,Gad1Gad2-Th,Nr4a2,Neuron.Gad1Gad2-Th.Nr4a2,MGE-derived cortical interneurons,2-10,FC_2-10
+FC_2-2,FC,518203,10785,FC,NEURON,Gad1Gad2,Sst-Pdyn,Neuron.Gad1Gad2.Sst-Pdyn,MGE-derived cortical interneurons--Martinotti cells,2-2,FC_2-2
+FC_2-3,FC,298598,10230,FC,NEURON,Gad1Gad2,Sst-Calb2,Neuron.Gad1Gad2.Sst-Calb2,MGE-derived cortical interneurons--Martinotti cells,2-3,FC_2-3
+FC_2-4,FC,569880,10916,FC,NEURON,Gad1Gad2,Sst-Crh,Neuron.Gad1Gad2.Sst-Crh,MGE-derived cortical interneurons--Martinotti cells,2-4,FC_2-4
+FC_2-5,FC,463582,10704,FC,NEURON,Gad1Gad2,Sst-Nr2f2,Neuron.Gad1Gad2.Sst-Nr2f2,MGE-derived cortical interneurons--Martinotti cells,2-5,FC_2-5
+FC_2-6,FC,199381,9535,FC,NEURON,Gad1Gad2,Pvalb-Unc5b,Neuron.Gad1Gad2.Pvalb-Unc5b,MGE-derived cortical interneurons--Chandelier cells,2-6,FC_2-6
+FC_2-7,FC,1201837,11388,FC,NEURON,Gad1Gad2,Pvalb,Neuron.Gad1Gad2.Pvalb,MGE-derived cortical interneurons--basket cells,2-7,FC_2-7
+FC_2-8,FC,1011622,11180,FC,NEURON,Gad1Gad2,Pvalb-Nefm,Neuron.Gad1Gad2.Pvalb-Nefm,MGE-derived cortical interneurons--basket cells,2-8,FC_2-8
+FC_2-9,FC,935872,11341,FC,NEURON,Gad1Gad2,Pvalb-Necab1,Neuron.Gad1Gad2.Pvalb-Necab1,MGE-derived cortical interneurons--basket cells,2-9,FC_2-9
+FC_3-1,FC,3190101,12147,FC,NEURON,Slc17a7,Syt6-Sema5a,Neuron.Slc17a7.Syt6-Sema5a,Deep layer pyramidal cells,3-1,FC_3-1
+FC_3-10,FC,889765,11102,FC,NEURON,Slc17a7-Slc17a8,Syt6-Cplx3,Neuron.Slc17a7-Slc17a8.Syt6-Cplx3,Deep layer pyramidal cells--Cortical Subplate,3-10,FC_3-10
+FC_3-11,FC,231108,9629,FC,NEURON,Slc17a7,Syt6-Bdnf,Neuron.Slc17a7.Syt6-Bdnf,Deep layer pyramidal cells,3-11,FC_3-11
+FC_3-12,FC,2430078,11869,FC,NEURON,Slc17a7,Syt6-Kit,Neuron.Slc17a7.Syt6-Kit,Deep layer pyramidal cells,3-12,FC_3-12
+FC_3-13,FC,1137023,11157,FC,NEURON,Slc17a7,Syt6-Fos,Neuron.Slc17a7.Syt6-Fos,Deep layer pyramidal cells (IEG),3-13,FC_3-13
+FC_3-2,FC,674291,10649,FC,NEURON,Slc17a7,Syt6-Etv1,Neuron.Slc17a7.Syt6-Etv1,Deep layer pyramidal cells-Etv1 typically marks layer 5b; but some expression in layer 6;  especially in medial regions like cingulate,3-2,FC_3-2
+FC_3-3,FC,5299287,12544,FC,NEURON,Slc17a7,Syt6-Efna5,Neuron.Slc17a7.Syt6-Efna5,Deep layer pyramidal cells,3-3,FC_3-3
+FC_3-4,FC,2332505,11815,FC,NEURON,Slc17a7,Syt6-Cyp26b1,Neuron.Slc17a7.Syt6-Cyp26b1,Deep layer pyramidal cells,3-4,FC_3-4
+FC_3-5,FC,768578,11205,FC,NEURON,Slc17a7,Syt6-Slc30a3,Neuron.Slc17a7.Syt6-Slc30a3,Deep layer pyramidal cells,3-5,FC_3-5
+FC_3-6,FC,387056,10275,FC,NEURON,Slc17a7,Syt6-Slc24a2,Neuron.Slc17a7.Syt6-Slc24a2,Deep layer pyramidal cells,3-6,FC_3-6
+FC_3-7,FC,3869053,12254,FC,NEURON,Slc17a7,Syt6-Lypd1,Neuron.Slc17a7.Syt6-Lypd1,Deep layer pyramidal cells--medial-lateral spatial gradient,3-7,FC_3-7
+FC_3-8,FC,2542611,11918,FC,NEURON,Slc17a7-Slc17a6,Syt6-Nnat,NeuronSlc17a7-Slc17a6.Syt6-Nnat,Deep layer pyramidal cells--medial cortex,3-8,FC_3-8
+FC_3-9,FC,1420740,11478,FC,NEURON,Slc17a7,Syt6-Sema3c,Neuron.Slc17a7.Syt6-Sema3c,Deep layer pyramidal cells,3-9,FC_3-9
+FC_4-1,FC,4009441,12378,FC,NEURON,Slc17a6-Slc17a7-Slc17a8,Fezf2.Slc17a8,Neuron.Slc17a6-Slc17a7-Slc17a8.Fezf2.Slc17a8,Deep layer pyramidal cells-Layer 5b,4-1,FC_4-1
+FC_4-2,FC,258693,10129,FC,NEURON,Slc17a6-Slc17a7,Fezf2.3110035E14Rik,Neuron.Slc17a6-Slc17a7.Fezf2.3110035E14Rik,Deep layer pyramidal cells-Layer 5b,4-2,FC_4-2
+FC_5-1,FC,2894961,12096,FC,NEURON,Slc17a6-Slc17a7,Nr4a2,Neuron.Slc17a6-Slc17a7.Nr4a2,Claustrum,5-1,FC_5-1
+FC_6-1,FC,64788673,14270,FC,NEURON,Slc17a7,Nptxr-Calb1,Neuron.Slc17a7.Nptxr-Calb1,Superficial layer pyramidal cells--Layer 2/3,6-1,FC_6-1
+FC_6-2,FC,1374033,11474,FC,NEURON,Slc17a7,Nptxr-Ndst4,Neuron.Slc17a7.Nptxr-Ndst4,Superficial layer pyramidal cells--dorsal endopiriform nucleus or piriform cortex,6-2,FC_6-2
+FC_6-3,FC,54698473,14177,FC,NEURON,Slc17a7-Slc17a6,Nptxr-Rorb,Neuron.Slc17a7-Slc17a6.Nptxr-Rorb,Deep layer pyramidal cells--Layer 5a,6-3,FC_6-3
+FC_6-4,FC,63148794,14252,FC,NEURON,Slc17a7,Nptxr-Deptor,Neuron.Slc17a7.Nptxr-Deptor,Deep layer pyramidal cells--Layer 5a,6-4,FC_6-4
+FC_6-5,FC,1402021,11583,FC,NEURON,Slc17a7,Nptxr-Fos,Neuron.Slc17a7.Nptxr-Fos,Deep layer pyramidal cells (IEG),6-5,FC_6-5
+FC_6-6,FC,7945,3268,FC,NEURON,Slc17a7,Nptxr-Drd1,Neuron.Slc17a7.Nptxr-Drd1,Deep layer pyramidal cells,6-6,FC_6-6
+FC_7-1,FC,863444,11153,FC,NEURON,Slc17a7,Parm1.Ndnf,Neuron.Slc17a7.Parm1.Ndnf,Deep layer pyramidal cells--layer 5,7-1,FC_7-1
+FC_7-2,FC,719574,10862,FC,NEURON,Slc17a7,Parm1.Nnat,Neuron.Slc17a7.Parm1.Nnat,Deep layer pyramidal cells--layer 5,7-2,FC_7-2
+FC_7-3,FC,2796280,12136,FC,NEURON,Slc17a7,Parm1.Lsamp,Neuron.Slc17a7.Parm1.Lsamp,Deep layer pyramidal cells--layer 5,7-3,FC_7-3
+FC_7-4,FC,65882,7730,FC,NEURON,Slc17a7,Parm1.Fos,Neuron.Slc17a7.Parm1.Fos,Deep layer pyramidal cells--layer 5 (IEG),7-4,FC_7-4
+FC_7-5,FC,267407,9866,FC,NEURON,Slc17a7,Parm1.Cadm2,Neuron.Slc17a7.Parm1.Cadm2,Deep layer pyramidal cells--layer 5,7-5,FC_7-5
+FC_7-6,FC,6499708,12774,FC,NEURON,Slc17a7,Parm1.Nefm,Neuron.Slc17a7.Parm1.Nefm,Deep layer pyramidal cells--layer 5,7-6,FC_7-6
+FC_7-7,FC,790504,10844,FC,NEURON,Slc17a7,Parm1.Tshz2,Neuron.Slc17a7.Parm1.Tshz2,Deep layer pyramidal cells--layer 5,7-7,FC_7-7
+FC_8-1,FC,4454895,12747,FC,ASTROCYTE,Gja1,,Astrocyte.Gja1,Gfap- astrocytes,8-1,FC_8-1
+FC_8-2,FC,934447,11554,FC,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Gfap+ astrocytes,8-2,FC_8-2
+FC_9-1,FC,1530892,11416,FC,OLIGODENDROCYTE,Tnf,Igsf8,Oligodendrocyte.Tnf.Igsf8,Oligodendrocyte.Tnf.Igsf8,9-1,FC_9-1
+FC_9-2,FC,323848,9385,FC,OLIGODENDROCYTE,Tnf,Igsf8-Ctps,Oligodendrocyte.Tnf.Igsf8-Ctps,Oligodendrocyte.Tnf.Igsf8-Ctps,9-2,FC_9-2
+FC_9-3,FC,718721,10931,FC,OLIGODENDROCYTE,Tnf,Kif5b,Oligodendrocyte.Tnf.Kif5b,Oligodendrocyte.Tnf.Kif5b,9-3,FC_9-3
+FC_9-4,FC,2410441,11935,FC,OLIGODENDROCYTE,Tnf,Ptgds,Oligodendrocyte.Tnf.Ptgds,Oligodendrocyte.Tnf.Ptgds,9-4,FC_9-4
+FC_9-5,FC,1001518,11063,FC,OLIGODENDROCYTE,Tnf,Klk6,Oligodendrocyte.Tnf.Klk6,Oligodendrocyte.Tnf.Klk6,9-5,FC_9-5
+PC_1-1,PC,778319,10843,PC,NEURON,Slc17a7,Syt6-Cplx3,Neuron.Slc17a7.Syt6-Cplx3,Cortical Subplate pyramidal cells,1-1,PC_1-1
+PC_1-2,PC,127539,8769,PC,NEURON,Slc17a7-Slc17a8,Syt6-Lancl3,Neuron.Slc17a7-Slc17a8.Syt6-Lancl3,Cortical Subplate pyramidal cells,1-2,PC_1-2
+PC_1-3,PC,1118676,11201,PC,NEURON,Slc17a7,Syt6-Tshz2-Nrep,Neuron.Slc17a7.Syt6-Tshz2-Nrep,Subiculum and Entorhinal Cortex,1-3,PC_1-3
+PC_1-4,PC,3728731,12151,PC,NEURON,Slc17a7,Syt6-Sla,Neuron.Slc17a7.Syt6-Sla,Layer6a,1-4,PC_1-4
+PC_1-5,PC,424297,10275,PC,NEURON,Slc17a7,Syt6-Nnat,Neuron.Slc17a7.Syt6-Nnat,Neuron.Slc17a7.Syt6-Nnat,1-5,PC_1-5
+PC_1-6,PC,179107,9304,PC,NEURON,Slc17a7,Syt6-Slc24a2,Neuron.Slc17a7.Syt6-Slc24a2,Cadm2+;  not selective,1-6,PC_1-6
+PC_1-7,PC,1476769,11314,PC,NEURON,Slc17a7,Syt6-Tox,Neuron.Slc17a7.Syt6-Tox,Neuron.Slc17a7.Syt6-Tox,1-7,PC_1-7
+PC_1-8,PC,4668815,12287,PC,NEURON,Slc17a7,Syt6-Nefm,Neuron.Slc17a7.Syt6-Nefm,Layer 6a,1-8,PC_1-8
+PC_1-9,PC,1652720,11372,PC,NEURON,Slc17a7,Syt6-Fos,Neuron.Slc17a7.Syt6-Fos,IEG+,1-9,PC_1-9
+PC_10-1,PC,304539,10924,PC,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,10-1,PC_10-1
+PC_10-2,PC,76525,8632,PC,POLYDENDROCYTE,Tnr,Dlx1,Polydendrocyte.Tnr.Dlx1,Polydendrocyte.Tnr.Dlx1,10-2,PC_10-2
+PC_10-3,PC,268655,10184,PC,POLYDENDROCYTE,Tnr,Tmsb4x,Polydendrocyte.Tnr.Tmsb4x,Polydendrocyte.Tnr.Tmsb4x,10-3,PC_10-3
+PC_10-4,PC,105103,9123,PC,POLYDENDROCYTE,Tnr,Lims2-Tmsb4x,Polydendrocyte.Tnr.Lims2-Tmsb4x,Polydendrocyte.Tnr.Lims2-Tmsb4x,10-4,PC_10-4
+PC_11-1,PC,300307,11180,PC,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,11-1,PC_11-1
+PC_11-2,PC,98739,9244,PC,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,11-2,PC_11-2
+PC_11-3,PC,8370,3311,PC,MICROGLIA,C1qb,Tmem119-Fos,Microglia.C1qb.Tmem119-Fos,Microglia,11-3,PC_11-3
+PC_11-4,PC,3532,1988,PC,MICROGLIA,C1qb,Tmem119-Junb,Microglia.C1qb.Tmem119-Junb,Microglia,11-4,PC_11-4
+PC_12-1,PC,646799,11001,PC,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,12-1,PC_12-1
+PC_12-2,PC,644041,10987,PC,ENDOTHELIAL_STALK,Flt1,Vwf,Endothelial_Stalk.Flt1.Vwf,Endothelial_Stalk.Flt1.Vwf,12-2,PC_12-2
+PC_12-3,PC,947376,11474,PC,ENDOTHELIAL_STALK,Flt1,Gm9946,Endothelial_Stalk.Flt1.Gm9946,Endothelial_Stalk.Flt1.Gm9946,12-3,PC_12-3
+PC_12-4,PC,412800,10428,PC,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,12-4,PC_12-4
+PC_13-1,PC,247627,10112,PC,MURAL,Acta2Rgs5,Acta2,Mural.Acta2Rgs5.Acta2,Mural.Acta2Rgs5.Acta2,13-1,PC_13-1
+PC_13-2,PC,26159,5398,PC,MURAL,Acta2Rgs5,Fos,Mural.Acta2Rgs5.Fos,Mural.Acta2Rgs5.Fos,13-2,PC_13-2
+PC_13-3,PC,173739,9832,PC,MURAL,Acta2Rgs5,Rgs5,Mural.Acta2Rgs5Rgs5,Mural.Acta2Rgs5Rgs5,13-3,PC_13-3
+PC_13-4,PC,55311,7873,PC,MURAL,Acta2Rgs5,Kcnj8-Abcc9,Mural.Acta2Rgs5.Kcnj8-Abcc9,Mural.Acta2Rgs5.Kcnj8-Abcc9,13-4,PC_13-4
+PC_13-5,PC,31287,6552,PC,MURAL,Acta2Rgs5,Abcc9,Mural.Acta2Rgs5.Abcc9,Mural.Acta2Rgs5.Abcc9,13-5,PC_13-5
+PC_14-1,PC,250415,10920,PC,ENDOTHELIAL_TIP,Dcn,Mgp-Penk,Endothelial_Tip.Dcn.Mgp-Penk,Endothelial_Tip.Dcn.Mgp-Penk,14-1,PC_14-1
+PC_14-2,PC,124062,9888,PC,ENDOTHELIAL_TIP,Dcn,Mgp-Clu,Endothelial_Tip.Dcn.Mgp-Clu,Endothelial_Tip.Dcn.Mgp-Clu,14-2,PC_14-2
+PC_14-3,PC,81596,8572,PC,ENDOTHELIAL_TIP,Dcn,Nnat,Endothelial_Tip.Dcn.Nnat,Endothelial_Tip.Dcn.Nnat,14-3,PC_14-3
+PC_14-4,PC,148714,9904,PC,ENDOTHELIAL_TIP,Dcn,Coch,Endothelial_Tip.Dcn.Coch,Endothelial_Tip.Dcn.Coch,14-4,PC_14-4
+PC_14-5,PC,57067,7918,PC,ENDOTHELIAL_TIP,Dcn,Inmt,Endothelial_Tip.Dcn.Inmt,Endothelial_Tip.Dcn.Inmt,14-5,PC_14-5
+PC_2-1,PC,5610091,12515,PC,NEURON,Slc17a7,Calb1-Ddit4l,Neuron.Sc17a7.Calb1-Ddit4l,Neurofilament;  Layer4?,2-1,PC_2-1
+PC_2-10,PC,9654216,12861,PC,NEURON,Slc17a7-Slc17a6,Rorb-Pcdh20,Neuron.Slc17a7-Slc17a6.Rorb-Pcdh20,Layer 5a ,2-10,PC_2-10
+PC_2-11,PC,8455895,12866,PC,NEURON,Slc17a7,Rorb-Gpr83,Neuron.Sc17a7.Rorb-Gpr83,Layer 5a ,2-11,PC_2-11
+PC_2-12,PC,1158372,11394,PC,NEURON,Slc17a7,Fermt1,Neuron.Sc17a7.Fermt1,Subiculum/Parasubiculum,2-12,PC_2-12
+PC_2-13,PC,7864863,12801,PC,NEURON,Slc17a7-Slc17a6,Calb1-Rorb-Il1rapl2,Neuron.Slc17a7-Slc17a6.Calb1-Rorb-Il1rapl2,Layer 5b,2-13,PC_2-13
+PC_2-14,PC,4268871,12343,PC,NEURON,Slc17a7-Slc17a6,Tshz2,Neuron.Slc17a7-Slc17a6.Tshz2,Retrosplenial cortex (RSG)/Subiculum/Parasubiculum,2-14,PC_2-14
+PC_2-15,PC,513561,10620,PC,NEURON,Slc17a7,Oprk1,Neuron.Sc17a7.Oprk1,Claustrum?,2-15,PC_2-15
+PC_2-16,PC,1745753,11870,PC,NEURON,Slc17a7,Crym,Neuron.Sc17a7.Crym,Subiculum,2-16,PC_2-16
+PC_2-17,PC,7856700,12776,PC,NEURON,Slc17a7,Sema3e-Nnat,Neuron.Sc17a7.Sema3e-Nnat,Layer 6,2-17,PC_2-17
+PC_2-18,PC,2700011,11925,PC,NEURON,Slc17a7,Sema3e-Onecut2,Neuron.Sc17a7.Sema3e-Onecut2,Layer 6,2-18,PC_2-18
+PC_2-2,PC,3669185,12162,PC,NEURON,Slc17a7,Calb1-Tshz2,Neuron.Sc17a7.Calb1-Tshz2,Retrosplenial cortex (RSG)/Entorhinal cortex;  Layer 2/3,2-2,PC_2-2
+PC_2-3,PC,601387,10766,PC,NEURON,Slc17a7,Tshz2-Smoc1,Neuron.Sc17a7.Tshz2-Smoc1,Agranular Retrosplenial cortex (RSG) (Smoc1+),2-3,PC_2-3
+PC_2-4,PC,1820962,11691,PC,NEURON,Slc17a7,Calb1-Fos,Neuron.Sc17a7.Calb1-Fos,Layer 2/3;  IEG+,2-4,PC_2-4
+PC_2-5,PC,15829810,13367,PC,NEURON,Slc17a7,Calb1-Lpl,Neuron.Sc17a7.Calb1-Lpl,Layer 2/3 ,2-5,PC_2-5
+PC_2-6,PC,4212699,12465,PC,NEURON,Slc17a7,Calb1-Otof,Neuron.Sc17a7.Calb1-Otof,Layer 2/3,2-6,PC_2-6
+PC_2-7,PC,3520154,12252,PC,NEURON,Slc17a7,Calb1-Lpl-Penk,Neuron.Sc17a7.Calb1-Lpl-Penk,Layer 2/3,2-7,PC_2-7
+PC_2-8,PC,199425,9585,PC,NEURON,Slc17a7,Calb1-Lpl-Cadm2,Neuron.Sc17a7.Calb1-Lpl-Cadm2,Layer 2/3;  Cadm2+,2-8,PC_2-8
+PC_2-9,PC,7081176,12686,PC,NEURON,Slc17a7,Rorb-BC006965,Neuron.Sc17a7.Rorb-BC006965,Layer 5a;  BC006965+,2-9,PC_2-9
+PC_3-1,PC,2705456,11880,PC,NEURON,Slc17a7,Bcl6-Cbln1,Neuron.Slc17a7.Bcl6-Cbln1,Layer 5a;  entorhinal cortex;  Cbln1+,3-1,PC_3-1
+PC_3-10,PC,1062077,11052,PC,NEURON,Slc17a7,Bcl6-Npnt,Neuron.Slc17a7.Bcl6-Npnt,Layer 5a,3-10,PC_3-10
+PC_3-2,PC,869860,10834,PC,NEURON,Slc17a7,Bcl6-Dditl,Neuron.Slc17a7.Bcl6-Dditl,Layer 5a,3-2,PC_3-2
+PC_3-3,PC,1423622,11403,PC,NEURON,Slc17a7,Bcl6-C1ql2,Neuron.Slc17a7.Bcl6-C1ql2,Retrosplenial cortex (RSG);  layer 5a,3-3,PC_3-3
+PC_3-4,PC,2260265,11761,PC,NEURON,Slc17a7,Bcl6-Tcerg1l,Neuron.Slc17a7.Bcl6-Tcerg1l,Layer 5a,3-4,PC_3-4
+PC_3-5,PC,773964,10999,PC,NEURON,Slc17a7,Bcl6-Fos,Neuron.Slc17a7.Bcl6-Fos,Layer 5a;  IEG+,3-5,PC_3-5
+PC_3-6,PC,71500,7977,PC,NEURON,Slc17a7,Bcl6-Ndst4,Neuron.Slc17a7.Bcl6-Ndst4,Subiculum,3-6,PC_3-6
+PC_3-7,PC,38143,6692,PC,NEURON,Slc17a7,Bcl6-Ptgfr,Neuron.Slc17a7.Bcl6-Ptgfr,Postsubiculum,3-7,PC_3-7
+PC_3-8,PC,534105,10652,PC,NEURON,Slc17a7,Bcl6-Tshz2-Syt2,Neuron.Slc17a7.Bcl6-Tshz2-Syt2,Layer 5a;  Entorhinal cortex;  Tshz1+,3-8,PC_3-8
+PC_3-9,PC,1196967,11182,PC,NEURON,Slc17a7,Bcl6-Pvalb,Neuron.Slc17a7.Bcl6-Pvalb,Layer 5a,3-9,PC_3-9
+PC_4-1,PC,752237,11050,PC,NEURON,Gad1Gad2,Cplx3-Reln,Neuron.Gad1Gad2.Cplx3-Reln,Cortical subplate interneuron,4-1,PC_4-1
+PC_4-2,PC,473183,10485,PC,NEURON,Gad1Gad2,Cplx3-Npy,Neuron.Gad1Gad2.Cplx3-Npy,Cortical subplate interneuron,4-2,PC_4-2
+PC_4-3,PC,287878,10081,PC,NEURON,Gad1Gad2,Cplx3-Egln3,Neuron.Gad1Gad2.Cplx3-Egln3,Cortical subplate interneuron,4-3,PC_4-3
+PC_4-4,PC,190367,9623,PC,NEURON,Gad1Gad2-Slc17a8,Synpr-Sncg-Yjefn3,Neuron.Gad1Gad2-Slc17a8.Synpr-Sncg-Yjefn3,Neuron.Gad1Gad2-Slc17a8.Synpr-Sncg-Yjefn3,4-4,PC_4-4
+PC_4-5,PC,182679,9485,PC,NEURON,Gad1Gad2,Synpr-Sncg,Neuron.Gad1Gad2.Synpr-Sncg,Neuron.Gad1Gad2.Synpr-Sncg,4-5,PC_4-5
+PC_4-6,PC,87146,8542,PC,NEURON,Gad1Gad2,Synpr-Nnat,Neuron.Gad1Gad2.Synpr-Nnat,Neuron.Gad1Gad2.Synpr-Nnat,4-6,PC_4-6
+PC_4-7,PC,234685,9903,PC,NEURON,Gad1Gad2,Synpr-Crispld2,Neuron.Gad1Gad2.Synpr-Crispld2,Neuron.Gad1Gad2.Synpr-Crispld2,4-7,PC_4-7
+PC_4-8,PC,535618,10803,PC,NEURON,Gad1Gad2-Chat,Synpr-Slc5a7,Neuron.Gad1Gad2-Chat.Synpr-Slc5a7,Neuron.Gad1Gad2-Chat.Synpr-Slc5a7,4-8,PC_4-8
+PC_4-9,PC,394648,10603,PC,NEURON,Gad1Gad2,Synpr-Pcdh11x,Neuron.Gad1Gad2.Synpr-Pcdh11x,Neuron.Gad1Gad2.Synpr-Pcdh11x,4-9,PC_4-9
+PC_5-1,PC,56427,7567,PC,NEURON,Gad1Gad2,Pvalb-Unc5b,Neuron.Gad1Gad2.Pvalb-Unc5b,Neuron.Gad1Gad2.Pvalb-Unc5b,5-1,PC_5-1
+PC_5-2,PC,931073,11210,PC,NEURON,Gad1Gad2,Pvalb-Nefm,Neuron.Gad1Gad2.Pvalb-Nefm,Neuron.Gad1Gad2.Pvalb-Nefm,5-2,PC_5-2
+PC_5-3,PC,719253,11046,PC,NEURON,Gad1Gad2,Pvalb-Cartpt,Neuron.Gad1Gad2.Pvalb-Cartpt,Neuron.Gad1Gad2.Pvalb-Cartpt,5-3,PC_5-3
+PC_5-4,PC,67323,8040,PC,NEURON,Gad1Gad2-Th,Nr4a2,Neuron.Gad1Gad2-Th.Nr4a2,Neuron.Gad1Gad2-Th.Nr4a2,5-4,PC_5-4
+PC_5-5,PC,285610,10219,PC,NEURON,Gad1Gad2,Sst-Crh,Neuron.Gad1Gad2.Sst-Crh,Neuron.Gad1Gad2.Sst-Crh,5-5,PC_5-5
+PC_5-6,PC,640223,10991,PC,NEURON,Gad1Gad2,Sst-Pdyn,Neuron.Gad1Gad2.Sst-Pdyn,Neuron.Gad1Gad2.Sst-Pdyn,5-6,PC_5-6
+PC_5-7,PC,113281,9002,PC,NEURON,Gad1Gad2,Sst-Nr2f2,Neuron.Gad1Gad2.Sst-Nr2f2,Neuron.Gad1Gad2.Sst-Nr2f2,5-7,PC_5-7
+PC_6-1,PC,3864937,12263,PC,NEURON,Slc17a7Slc17a6,Tshz2-Shisa8,Neuron.Slc17a7-Slc17a6.Shisa8,Layer 5;  medial posterior cortex (Retrosplenial cortex (RSG) subiculum),6-1,PC_6-1
+PC_6-2,PC,90101,8403,PC,NEURON,Slc17a7Slc17a6,Tshz2-Fos,Neuron.Slc17a7-Slc17a6.Tshz2-Fos,Layer 5;  medial posterior cortex (Retrosplenial cortex (RSG)  subiculum),6-2,PC_6-2
+PC_6-3,PC,465290,10315,PC,NEURON,Slc17a7Slc17a6,Tshz2-Rasd1,Neuron.Slc17a7-Slc17a6.Tshz2-Rasd1,Presubiculum;  Col5a2+,6-3,PC_6-3
+PC_6-4,PC,163105,9431,PC,NEURON,Slc17a7Slc17a6,Tshz2-Nnat,Neuron.Slc17a7-Slc17a6.Tshz2-Nnat,Presubiculum;  Col5a2+,6-4,PC_6-4
+PC_6-5,PC,1954689,11728,PC,NEURON,Slc17a7Slc17a6,Tshz2-Cabp7,Neuron.Slc17a7-Slc17a6.Tshz2-Cabp7,Retrosplenial areas;  subiculum;  presubiculum;  Cabp7+,6-5,PC_6-5
+PC_6-6,PC,2133973,11749,PC,NEURON,Slc17a7Slc17a6,Tshz2-Npnt,Neuron.Slc17a7-Slc17a6.Tshz2-Npnt,Retrosplenial areas;  layer 5;  Npnt+,6-6,PC_6-6
+PC_6-7,PC,580169,10558,PC,NEURON,Slc17a7Slc17a6,Tshz2-Prlr,Neuron.Slc17a7-Slc17a6.Tshz2-Prlr,Entorhinal cortex?,6-7,PC_6-7
+PC_7-1,PC,626344,10745,PC,NEURON,Slc17a7-Slc17a8,Fezf2-Slc17a8,Neuron.Slc17a7-Slc17a8.Fezf2-Slc17a8,Layer 5;  Retrosplenial cortex (RSG) and Subiculum;  Tshz2+,7-1,PC_7-1
+PC_7-2,PC,791634,11162,PC,NEURON,Slc17a7-Slc17a6,Fezf2-Htr2c,Neuron.Slc17a7-Slc17a6.Fezf2-Htr2c,Layer 5;  Retrosplenial cortex (RSG) and Subiculum;  Tshz2+,7-2,PC_7-2
+PC_7-3,PC,253223,10062,PC,NEURON,Slc17a7-Slc17a6,Fezf2-3110035E14Rik,Neuron.Slc17a7-Slc17a6.Fezf2-3110035E14Rik,Layer 5;  Retrosplenial cortex (RSG) and Subiculum;  Tshz2+,7-3,PC_7-3
+PC_8-1,PC,2565429,12216,PC,ASTROCYTE,Gja1,Htra1,Astrocyte.Gja1.Igfbp2,Astrocyte.Gja1.Igfbp2,8-1,PC_8-1
+PC_8-2,PC,1293107,11717,PC,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Astrocyte.Gja1.Myoc,8-2,PC_8-2
+PC_8-3,PC,744944,11057,PC,ASTROCYTE,Gja1,Sparc,Astrocyte.Gja1.Sparc,Astrocyte.Gja1.Sparc,8-3,PC_8-3
+PC_9-1,PC,797647,10933,PC,OLIGODENDROCYTE,Tfr,Ctps,Oligodendrocyte.Tfr.Ctps,Oligodendrocyte.Tfr.Ctps,9-1,PC_9-1
+PC_9-2,PC,80629,7544,PC,OLIGODENDROCYTE,Tfr,Tmem2,Oligodendrocyte.Tfr.Tmem2,Oligodendrocyte.Tfr.Tmem2,9-2,PC_9-2
+PC_9-3,PC,460845,10248,PC,OLIGODENDROCYTE,Tfr,Klk6,Oligodendrocyte.Tfr.Klk6,Oligodendrocyte.Tfr.Klk6,9-3,PC_9-3
+PC_9-4,PC,1418953,11430,PC,OLIGODENDROCYTE,Tfr,Il33,Oligodendrocyte.Tfr.Il33,Oligodendrocyte.Tfr.Il33,9-4,PC_9-4
+PC_9-5,PC,213222,9656,PC,OLIGODENDROCYTE,Tfr,Sez6,Oligodendrocyte.Tfr.Sez6,Oligodendrocyte.Tfr.Sez6,9-5,PC_9-5
+ENT_1-1,ENT,3812237,11546,ENT,OLIGODENDROCYTE,Trf,Serpinb1a,Oligodendrocyte.Trf.Serpinb1a,Oligodendrocyte.Trf.Serpinb1a,1-1,ENT_1-1
+ENT_1-2,ENT,1953531,10952,ENT,OLIGODENDROCYTE,Trf,Klk6,Oligodendrocyte.Trf.Klk6,Oligodendrocyte.Trf.Klk6,1-2,ENT_1-2
+ENT_1-3,ENT,1218195,10746,ENT,OLIGODENDROCYTE,Trf,Ndrg2,Oligodendrocyte.Trf.Ndrg2,Oligodendrocyte.Trf.Ndrg2,1-3,ENT_1-3
+ENT_1-4,ENT,2281105,11097,ENT,OLIGODENDROCYTE,Trf,Il33,Oligodendrocyte.Trf.Il33,Oligodendrocyte.Trf.Il33,1-4,ENT_1-4
+ENT_1-5,ENT,454438,9508,ENT,OLIGODENDROCYTE,Trf,Ctps,Oligodendrocyte.Trf.Ctps,Oligodendrocyte.Trf.Ctps,1-5,ENT_1-5
+ENT_2-1,ENT,522598,10288,ENT,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,2-1,ENT_2-1
+ENT_2-2,ENT,163103,8980,ENT,ENDOTHELIAL_STALK,Flt1,Vwf,Endothelial_Stalk.Flt1.Vwf,Endothelial_Stalk.Flt1.Vwf,2-2,ENT_2-2
+ENT_2-3,ENT,369463,9841,ENT,ENDOTHELIAL_STALK,Flt1,Tgfb2,Endothelial_Stalk.Flt1.Tgfb2,Endothelial_Stalk.Flt1.Tgfb2,2-3,ENT_2-3
+ENT_2-4,ENT,362716,9966,ENT,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,2-4,ENT_2-4
+ENT_3-1,ENT,59047,7864,ENT,MURAL,Rgs5Acta2,Kcnj8,Mural.Rgs5Acta2.Kcnj8,Mural.Rgs5Acta2.Kcnj8,3-1,ENT_3-1
+ENT_3-2,ENT,45945,7008,ENT,ENDOTHELIAL_TIP,Dcn,Dcn,Endothelial_Tip.Dcn,Endothelial_Tip.Dcn,3-2,ENT_3-2
+ENT_3-3,ENT,30059,5997,ENT,MURAL,Rgs5Acta2,Pdgfa,Mural.Rgs5Acta2.Pdgfa,Mural.Rgs5Acta2.Pdgfa,3-3,ENT_3-3
+ENT_3-4,ENT,113633,8547,ENT,MURAL,Rgs5Acta2,Ccnd1,Mural.Rgs5Acta2.Ccnd1,Mural.Rgs5Acta2.Ccnd1,3-4,ENT_3-4
+ENT_3-5,ENT,83851,7524,ENT,MURAL,Rgs5Acta2,Cnn1,Mural.Rgs5Acta2.Cnn1,Mural.Rgs5Acta2.Cnn1,3-5,ENT_3-5
+ENT_3-6,ENT,11726,3566,ENT,MURAL,Rgs5Acta2,Junb,Mural.Rgs5Acta2.Junb,Mural;  IEG+,3-6,ENT_3-6
+ENT_4-1,ENT,51399,7838,ENT,NEURON,Slc17a7,Zbtb20,Neuron.Slc17a7.Zbtb20,Ventral Hippocampus,4-1,ENT_4-1
+ENT_4-10,ENT,21096,5503,ENT,NEURON,Gad1Gad2,Pmch,Neuron.Gad1Gad2.Pmch,Lateral hypothalamus (LH),4-10,ENT_4-10
+ENT_4-11,ENT,18513,5610,ENT,NEURON,Gad1Gad2,Otx2,Neuron.Gad1Gad2.Otx2,ventral lateral geniculate nucleus;  magnocellular part (VLGMC)?,4-11,ENT_4-11
+ENT_4-12,ENT,21790,5517,ENT,NEURON,Gad1Gad2-Chat,Lhx8,Neuron.Gad1Gad2-Chat,Nucleus basalis (NB) ,4-12,ENT_4-12
+ENT_4-2,ENT,219353,9804,ENT,NEURON,Gad1Gad2,Six3-Pvalb,Neuron.Gad1Gad2.Six3-Pvalb,Thalamic reticular nucleus;  TRN+,4-2,ENT_4-2
+ENT_4-3,ENT,144833,9567,ENT,NEURON,Gad1Gad2-Slc17a6,Cbln1,Neuron.Gad1Gad2-Slc17a6.Cbln1,Entopeduncular Nucleus (Ent);  GABA/Glu co-releasing,4-3,ENT_4-3
+ENT_4-4,ENT,615508,11316,ENT,NEURON,Gad1Gad2,Dlk1,Neuron.Gad1Gad2.Dlk1,Zona Incerta;  ventral part (ZIV) and/or Lateral hypothalamus (LH),4-4,ENT_4-4
+ENT_4-5,ENT,99915,9037,ENT,NEURON,Gad1Gad2,Tcf7l2,Neuron.Gad1Gad2.Tcf7l2,Entopeduncular Nucleus (Ent),4-5,ENT_4-5
+ENT_4-6,ENT,597454,10949,ENT,NEURON,Slc17a6,Pitx2,Neuron.Slc17a6.Pitx2,Subthalamic Nucleus (STN);  maybe ENT as well,4-6,ENT_4-6
+ENT_4-7,ENT,500186,10974,ENT,NEURON,Gad1Gad2,Pvalb_Gfra2,Neuron.Gad1Gad2.Pvalb-Gfra2,Zona Incerta;  ventral part (ZIV),4-7,ENT_4-7
+ENT_4-8,ENT,143275,9614,ENT,NEURON,Gad1Gad2,Pvalb_Ntng1,Neuron.Gad1Gad2.Pvalb-Ntng1,Entopeduncular Nucleus (Ent) or Zona Incerta;  ventral part (ZIV). State signal?,4-8,ENT_4-8
+ENT_4-9,ENT,93748,8674,ENT,NEURON,Gad1Gad2,Pvalb-Spp1,Neuron.Gad1Gad2.Pvalb-Spp1,Entopeduncular Nucleus (Ent) or Zona Incerta;  ventral part (ZIV). State signal?,4-9,ENT_4-9
+ENT_5-1,ENT,177065,9083,ENT,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocyte.Tnr.Bmp4,Polydendrocyte.Tnr.Bmp4,5-1,ENT_5-1
+ENT_5-2,ENT,286512,9061,ENT,POLYDENDROCYTE,Tnr,Pdgfa,Polydendrocyte.Tnr.Pdgfa,Polydendrocyte.Tnr.Pdgfa,5-2,ENT_5-2
+ENT_5-3,ENT,217143,8585,ENT,POLYDENDROCYTE,Tnr,Ctps,Polydendrocyte.Tnr.Ctps,Polydendrocyte.Tnr.Ctps,5-3,ENT_5-3
+ENT_6-1,ENT,157852,10048,ENT,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,NG2 cells,6-1,ENT_6-1
+ENT_7-1,ENT,67304,8308,ENT,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Astrocyte.Gja1.Myoc,7-1,ENT_7-1
+ENT_7-2,ENT,254872,10189,ENT,ASTROCYTE,Gja1,Htra1,Astrocyte.Gja1.Htra1,Astrocyte.Gja1.Htra1,7-2,ENT_7-2
+ENT_8-1,ENT,78025,7326,ENT,OLIGODENDROCYTE,Trf,Cldn11,Oligodendrocyte.Trf.Cldn11,Oligodendrocyte.Trf.Cldn11,8-1,ENT_8-1
+ENT_8-2,ENT,99434,7415,ENT,OLIGODENDROCYTE,Trf,Ndrg2,Oligodendrocyte.Trf.Ndrg2,MyelinProcess,8-2,ENT_8-2
+GP_1-1,GP,642090,11127,GP,NEURON,Chat-Gad1Gad2-Slc17a8,Ngfr,Neuron.Chat-Gad1Gad2-Slc17a8.Ngfr,Globus Pallidus/Nucleus Basalis (GP/NB);  cholinergic,1-1,GP_1-1
+GP_1-2,GP,199532,10077,GP,NEURON,Chat-Gad1Gad2-Slc17a8,Nefm,Neuron.Chat-Gad1Gad2-Slc17a8.Nefm,Globus Pallidus/Nucleus Basalis (GP/NB);  cholinergic,1-2,GP_1-2
+GP_10-1,GP,8110833,12715,GP,OLIGODENDROCYTE,Trf,Mbp,Oligodendrocyte.Trf.Mbp,Oligodendrocyte.Trf.Mbp,10-1,GP_10-1
+GP_10-2,GP,3828640,11964,GP,OLIGODENDROCYTE,Trf,Klk6,Oligodendrocyte.Trf.Klk6,Oligodendrocyte.Trf.Klk6,10-2,GP_10-2
+GP_10-3,GP,3347326,11789,GP,OLIGODENDROCYTE,Trf,Ttyh1,Oligodendrocyte.Trf.Ttyh1,Oligodendrocyte.Trf.Ttyh1,10-3,GP_10-3
+GP_10-4,GP,629933,9957,GP,OLIGODENDROCYTE,Trf,Ctps,Oligodendrocyte.Trf.Ctps,Oligodendrocyte.Trf.Ctps,10-4,GP_10-4
+GP_10-5,GP,4964689,12206,GP,OLIGODENDROCYTE,Trf,Il33,Oligodendrocyte.Trf.Il33,Oligodendrocyte.Trf.Il33,10-5,GP_10-5
+GP_10-6,GP,1627495,11392,GP,OLIGODENDROCYTE,Trf,Kif5b,Oligodendrocyte.Trf.Kif5b,Oligodendrocyte.Trf.Kif5b,10-6,GP_10-6
+GP_11-1,GP,181103,9603,GP,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,11-1,GP_11-1
+GP_11-2,GP,137452,9228,GP,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,11-2,GP_11-2
+GP_2-1,GP,195122,9675,GP,NEURON,Gad1Gad2,Tac1,Neuron.Gad1Gad2.Tac1,Substantia Innominata (SI),2-1,GP_2-1
+GP_2-10,GP,87194,8746,GP,NEURON,Gad1Gad2,Cadm2,Neuron.Gad1Gad2.Cadm2,Cadm2+ state,2-10,GP_2-10
+GP_2-11,GP,245608,10433,GP,NEURON,Slc17a7,Neurod2.Rorb,Neuron.Slc17a7.Neurod2-Rorb,Nucleus of the lateral olfactory tract (LOT) ,2-11,GP_2-11
+GP_2-12,GP,172174,9719,GP,NEURON,Slc17a7,Neurod2.C1ql3,Neuron.Slc17a7.Neurod2-C1ql3,Nucleus of the lateral olfactory tract (LOT) ,2-12,GP_2-12
+GP_2-13,GP,1378669,11634,GP,NEURON,Gad1Gad2,Grem,Neuron.Gad1Gad2.Grem,Globus Pallidus Externus (GP);  Lhx6-enriched,2-13,GP_2-13
+GP_2-14,GP,1035162,11542,GP,NEURON,Gad1Gad2,Pvalb,Neuron.Gad1Gad2.Scn4b,"Globus Pallidus Externus (GP);  ""Prototypical""",2-14,GP_2-14
+GP_2-15,GP,903525,11808,GP,NEURON,Gad1Gad2,Fibcd1,Neuron.Gad1Gad2.Fibcd1,ventral GP (vGP),2-15,GP_2-15
+GP_2-16,GP,529309,11040,GP,NEURON,Gad1Gad2,Trdn,Neuron.Gad1Gad2.Trdn,Ventral Globus Pallidus Externus (vGP) / Ventral Pallidum (VP) / magnocellular preoptic nucleus (MCPO),2-16,GP_2-16
+GP_2-17,GP,552683,10924,GP,NEURON,Gad1Gad2,Elfn1-Grik3,Neuron.Gad1Gad2.Elfn1-Grik3,Globus Pallidus Externus (GP),2-17,GP_2-17
+GP_2-18,GP,342820,10622,GP,NEURON,Gad1Gad2,Pappa,Neuron.Gad1Gad2.Pappa,ventral GP (vGP),2-18,GP_2-18
+GP_2-19,GP,1647949,11765,GP,NEURON,Gad1Gad2,Cyp26b1,Neuron.Gad1Gad2.Cyp26b1,"Globus Pallidus Externus (GP);  ""Arkypallidal""",2-19,GP_2-19
+GP_2-2,GP,341572,11004,GP,NEURON,Slc17a6,Cck,Neuron.Slc17a6.Cck,Substantia Innominata (SI),2-2,GP_2-2
+GP_2-20,GP,290344,10430,GP,NEURON,Gad1Gad2,Six3-Pvalb,Neuron.Gad1Gad2.Six3-Pvalb,Thalamic reticular nucleus (TRN),2-20,GP_2-20
+GP_2-21,GP,221196,10276,GP,NEURON,Gad1Gad2,Vip,Neuron.Gad1Gad2.Vip,ventral GP (vGP),2-21,GP_2-21
+GP_2-22,GP,39614,7224,GP,NEURON,Gad1Gad2,Cplx3,Neuron.Gad1Gad2.Lamp5-Cplx3,Substantia Innominata (SI),2-22,GP_2-22
+GP_2-23,GP,101549,9278,GP,NEURON,Gad1Gad2,Trh,Neuron.Gad1Gad2.Trh,Substantia Innominata (SI),2-23,GP_2-23
+GP_2-24,GP,257980,10314,GP,NEURON,Gad1Gad2,Igfbp4.Rgs4,Neuron.Gad1Gad2.Igfbp4.Rgs4,Striatum;  interneuron,2-24,GP_2-24
+GP_2-25,GP,190813,9907,GP,NEURON,Gad1Gad2,Igfbp4.Adora1,Neuron.Gad1Gad2.Igfbp4.Adora1,Striatum;  interneuron,2-25,GP_2-25
+GP_2-3,GP,1146220,11911,GP,NEURON,Gad1Gad2,Tac2,Neuron.Gad1Gad2.Tac2,Substantia Innominata (SI);  dorsal;  bordering GP,2-3,GP_2-3
+GP_2-4,GP,877715,11799,GP,NEURON,Gad1Gad2,Hpcal4,Neuron.Gad1Gad2.Hpcal4,Substantia Innominata (SI),2-4,GP_2-4
+GP_2-5,GP,545101,11015,GP,NEURON,Gad1Gad2,Sst,Neuron.Gad1Gad2.Sst,Striatum;  interneuron,2-5,GP_2-5
+GP_2-6,GP,396936,10968,GP,NEURON,Gad1Gad2,Satb1,Neuron.Gad1Gad2.Satb1,Substantia Innominata (SI),2-6,GP_2-6
+GP_2-7,GP,395156,10902,GP,NEURON,Gad1Gad2-Slc17a6,Cbln1,Neuron.Gad1Gad2-Slc17a6.Cbln1,Entopeduncular Nucleus (Ent);  GABA/Glu co-releasing,2-7,GP_2-7
+GP_2-8,GP,612828,11325,GP,NEURON,Slc17a6,Tcf7l2,Neuron.Slc17a6.Tcf7l2,Substantia Innominata (SI),2-8,GP_2-8
+GP_2-9,GP,498231,11231,GP,NEURON,Slc17a6,Rspo3,Neuron.Slc17a6.Rspo3,Substantia Innominata (SI),2-9,GP_2-9
+GP_3-1,GP,2325622,12279,GP,NEURON,Gad1Gad2,Drd1-Nefm,Neuron.Gad1Gad2.Drd1-Nefm,Striatum;  dSPNs;  neurofilament state+,3-1,GP_3-1
+GP_3-10,GP,80034,8518,GP,NEURON,Gad1Gad2,Vipr2,Neuron.Gad1Gad2.Vipr2,central amygdaloid nucleus;  medial division;  anterodorsal part (CeMAD),3-10,GP_3-10
+GP_3-2,GP,791370,11147,GP,NEURON,Gad1Gad2,Drd1-Pdyn,Neuron.Gad1Gad2.Drd1-Pdyn,Striatum;  patch dSPNs,3-2,GP_3-2
+GP_3-3,GP,1711715,11894,GP,NEURON,Gad1Gad2,Adora2a,Neuron.Gad1Gad2.Adora2a,Striatum;  iSPNs,3-3,GP_3-3
+GP_3-4,GP,464911,10660,GP,NEURON,Gad1Gad2,Cadm2,Neuron.Gad1Gad2.Cadm2,Striatum;  Cadm state SPNs,3-4,GP_3-4
+GP_3-5,GP,1181744,11465,GP,NEURON,Gad1Gad2,Drd1-Pde1c,Neuron.Gad1Gad2.Drd1-Pde1c,Striatum;  dSPNs;  Pde1c +,3-5,GP_3-5
+GP_3-6,GP,1005134,11384,GP,NEURON,Gad1Gad2,Adora2a-Pde1c,Neuron.Gad1Gad2.Adora2a-Pde1c,Striatum;  iSPNs;  Pde1c +,3-6,GP_3-6
+GP_3-7,GP,877764,11573,GP,NEURON,Gad1Gad2,Sphkap-Tmem255a,Neuron.Gad1Gad2.Sphkap-Tmem255a,Basomedial amygdaloid nucleus (BMA),3-7,GP_3-7
+GP_3-8,GP,270294,10417,GP,NEURON,Gad1Gad2,Sphkap-Cpne4,Neuron.Gad1Gad2.Sphkap-Cpne4,Basomedial amygdaloid nucleus (BMA),3-8,GP_3-8
+GP_3-9,GP,881341,11479,GP,NEURON,Gad1Gad2-Th,Adora2a-Th,Neuron.Gad1Gad2-Th.Adora2a-Th,Striatum;  Th+ SPN,3-9,GP_3-9
+GP_4-1,GP,594786,10352,GP,POLYDENDROCYTE,Tnr,Pdgfa-Pik3r3,Polydendrocyte.Tnr.Pdgfa-Pik3r3,Polydendrocyte.Tnr.Pdgfa-Pik3r3,4-1,GP_4-1
+GP_4-2,GP,522653,9778,GP,POLYDENDROCYTE,Tnr,Pdgfa-Tmem2,Polydendrocyte.Tnr.Pdgfa-Tmem2,Polydendrocyte.Tnr.Pdgfa-Tmem2,4-2,GP_4-2
+GP_4-3,GP,211335,8526,GP,POLYDENDROCYTE,Tnr,Opalin,Polydendrocyte.Tnr.Opalin,Polydendrocyte.Tnr.Opalin,4-3,GP_4-3
+GP_4-4,GP,568639,10647,GP,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocyte.Tnr.Bmp4,Polydendrocyte.Tnr.Bmp4,4-4,GP_4-4
+GP_4-5,GP,547754,11293,GP,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,4-5,GP_4-5
+GP_4-6,GP,25106,6457,GP,MITOTIC,MkI67,,Mitotic.MkI67,Mitotic.MkI67,4-6,GP_4-6
+GP_4-7,GP,5725,2714,GP,POLYDENDROCYTE,Tnr,Cyth3,Polydendrocyte.Tnr.Cyth3,Polydendrocyte.Tnr.Cyth3,4-7,GP_4-7
+GP_5-1,GP,3154347,12343,GP,ASTROCYTE,Gja1,Gfap,Astrocyte.Gja1.Gfap,Astrocyte.Gja1.Gfap,5-1,GP_5-1
+GP_5-2,GP,2670103,12142,GP,ASTROCYTE,Gja1,Crym,Astrocyte.Gja1.Crym,Astrocyte.Gja1.Crym,5-2,GP_5-2
+GP_6-1,GP,98995,9062,GP,EPENDYMAL,Ccdc153,Ccdc153,Ependymal.Ccdc153,Ependymal,6-1,GP_6-1
+GP_7-1,GP,487769,10541,GP,ENDOTHELIAL_STALK,Flt1,Pi16,Endothelial_Stalk.Flt1.Apold1,Endothelial_Stalk.Flt1.Apold1,7-1,GP_7-1
+GP_7-2,GP,1224015,11377,GP,ENDOTHELIAL_STALK,Flt1,Cdkn1c,Endothelial_Stalk.Flt1.Cdkn1c,Endothelial_Stalk.Flt1.Cdkn1c,7-2,GP_7-2
+GP_7-3,GP,468047,10315,GP,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Mgp,Endothelial_Stalk.Flt1.Mgp,7-3,GP_7-3
+GP_7-4,GP,513054,10512,GP,ENDOTHELIAL_STALK,Flt1,Vwf,Endothelial_Stalk.Flt1.Lcn2,Endothelial_Stalk.Flt1.Lcn2,7-4,GP_7-4
+GP_7-5,GP,1154744,11254,GP,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,7-5,GP_7-5
+GP_7-6,GP,816256,10932,GP,ENDOTHELIAL_STALK,Flt1,Angpt2,Endothelial_Stalk.Flt1.Angpt2,Endothelial_Stalk.Flt1.Angpt2,7-6,GP_7-6
+GP_8-1,GP,537798,10478,GP,MURAL,Rgs5Acta2,Acta2,Mural.Rgs5Acta2.Acta2,Mural.Rgs5Acta2.Acta2,8-1,GP_8-1
+GP_8-2,GP,112705,8876,GP,MURAL,Rgs5Acta2,Kcnj8,Mural.Rgs5Acta2.Kcnj8,Mural.Rgs5Acta2.Kcnj8,8-2,GP_8-2
+GP_8-3,GP,48065,7175,GP,MURAL,Rgs5Acta2,Lmcd1,Mural.Rgs5Acta2.Lmcd1,Mural.Rgs5Acta2.Lmcd1,8-3,GP_8-3
+GP_8-4,GP,511234,10667,GP,MURAL,Rgs5Acta2,Rgs5,Mural.Rgs5Acta2.Rgs5,Mural.Rgs5Acta2.Rgs5,8-4,GP_8-4
+GP_8-5,GP,17702,4736,GP,MURAL,Rgs5Acta2,Pappa2,Mural.Rgs5Acta2.Pappa2,Mural.Rgs5Acta2.Pappa2,8-5,GP_8-5
+GP_9-1,GP,124982,9386,GP,ENDOTHELIAL_TIP,Dcn,Mgp,Endothelial_Tip.Dcn.Mgp,Endothelial_Tip.Dcn.Mgp,9-1,GP_9-1
+GP_9-2,GP,118594,9101,GP,ENDOTHELIAL_TIP,Dcn,Col15a1,Endothelial_Tip.Dcn.Col15a1,Endothelial_Tip.Dcn.Col15a1,9-2,GP_9-2
+GP_9-3,GP,125418,9191,GP,ENDOTHELIAL_TIP,Dcn,Ifitm1,Endothelial_Tip.Dcn.Ifitm1,Endothelial_Tip.Dcn.Ifitm1,9-3,GP_9-3
+HC_1-1,HC,415500,10244,HC,NEURON,Gad1Gad2_Pvalb,C1ql1,Neuron.Gad1Gad2_Pvalb.C1ql1,Interneuron;  Chandelier,1-1,HC_1-1
+HC_1-10,HC,247346,9822,HC,NEURON,Gad1Gad2_Sst,Pcdh11x,Neuron.Gad1Gad2_Sst.Pcdh11x,Interneuron;  OLM4 (Dentate enriched?),1-10,HC_1-10
+HC_1-11,HC,437706,10391,HC,NEURON,Gad1Gad2_Cplx3,Rxfp1,Gad1Gad2_Cplx3.Rxfp1,Interneuron;  CA1 lacunosum moleculare1?,1-11,HC_1-11
+HC_1-12,HC,300670,9892,HC,NEURON,Gad1Gad2_Cplx3,Tox,Gad1Gad2_Cplx3.Tox,Interneuron;  lacunosum oriens1?,1-12,HC_1-12
+HC_1-13,HC,268915,9868,HC,NEURON,Gad1Gad2_Id2,Tac1,Gad1Gad2_Id2.Tac1,Interneuron;  Neurogliaform1,1-13,HC_1-13
+HC_1-14,HC,1071773,10995,HC,NEURON,Gad1Gad2_Id2,Bcl11b,Gad1Gad2_Id2.Bcl11b,Interneuron;  Neurogliaform2,1-14,HC_1-14
+HC_1-15,HC,647394,10629,HC,NEURON,Gad1Gad2_Id2,Prlr,Gad1Gad2_Id2.Prlr,Interneuron;  Neurogliaform3,1-15,HC_1-15
+HC_1-16,HC,167025,9265,HC,NEURON,Gad1Gad2_Htr3a,Nnat,Gad1Gad2_Htr3a.Nnat,Interneuron;   (candidate CGE-derived 1),1-16,HC_1-16
+HC_1-17,HC,500516,10645,HC,NEURON,Gad1Gad2Chat_Htr3a,Chat,Gad1Gad2Chat_Htr3a.Chat,Interneuron;  Cholinergic (candidate  CGE-derived 2),1-17,HC_1-17
+HC_1-18,HC,299728,10038,HC,NEURON,Gad1Gad2_Htr3a,Phlda1,Gad1Gad2_Htr3a.Phlda1,Interneuron;   (candidate CGE-derived 3),1-18,HC_1-18
+HC_1-19,HC,190591,9439,HC,NEURON,Gad1Gad2Slc17a8_Htr3a,Efna5,Gad1Gad2_Htr3a.Efba5,Interneuron;   (candidate CGE-derived 4),1-19,HC_1-19
+HC_1-2,HC,142313,9047,HC,NEURON,Gad1Gad2_Id2,Sfrp2,Neuron.Gad1Gad2_Id2.Sfrp2,Interneuron;  Neurogliaform1,1-2,HC_1-2
+HC_1-20,HC,584340,10450,HC,NEURON,Gad1Gad2_Htr3a,Cpne5,Gad1Gad2_Htr3a.Cpne5,Interneuron;   (candidate CGE-derived 5),1-20,HC_1-20
+HC_1-21,HC,344909,10005,HC,NEURON,Gad1Gad2_Htr3a,Ecel1,Gad1Gad2_Htr3a.Ecel1,Interneuron;   (candidate CGE-derived 6),1-21,HC_1-21
+HC_1-22,HC,361015,9960,HC,NEURON,Gad1Gad2Slc17a8_Htr3a,Ibsp,Gad1Gad2_Htr3a.Ibsp,Interneuron;   (candidate CGE-derived 7),1-22,HC_1-22
+HC_1-23,HC,935788,10938,HC,NEURON,Gad1Gad2_Htr3a,Krt73,Gad1Gad2_Htr3a.Krt73,Interneuron;   (candidate CGE-derived 8),1-23,HC_1-23
+HC_1-24,HC,764817,10708,HC,NEURON,Gad1Gad2Slc17a8_Htr3a,Kctd12,Gad1Gad2Slc17a8_Htr3a.Ktcd12,Interneuron;   GABA/Glutamate co-releasing? (candidate CGE-derived 9),1-24,HC_1-24
+HC_1-25,HC,197029,9453,HC,NEURON,Gad1Gad2_Htr3a,Chrm2,Gad1Gad2_Htr3a.Chrm2,Interneuron;   (candidate CGE-derived 10),1-25,HC_1-25
+HC_1-26,HC,493584,10345,HC,NEURON,Gad1Gad2_Htr3a,Htr1b,Gad1Gad2_Htr3a.Htr1b,Interneuron;   (candidate CGE-derived 11),1-26,HC_1-26
+HC_1-27,HC,197262,9364,HC,NEURON,Gad1Gad2_Htr3a,Sema3c,Gad1Gad2_Htr3a.Sema3c,Interneuron;   (candidate CGE-derived 12),1-27,HC_1-27
+HC_1-3,HC,79357,8420,HC,NEURON,Gad1Gad2_Sst,Atp2b4,Neuron.Gad1Gad2_Sst.Atp2b4,Interneuron;  Olm,1-3,HC_1-3
+HC_1-4,HC,583024,10711,HC,NEURON,Gad1Gad2Slc17a8_Sst,Slc17a8,Neuron.Gad1Gad2Slc17a8_Sst.Ncam2,Interneuron;   GABA/Glutamate co-releasing?,1-4,HC_1-4
+HC_1-5,HC,338949,10347,HC,NEURON,Gad1Gad2_Sst,Spon1,Neuron.Gad1Gad2_Sst.Spon1,Interneuron;  OLM1,1-5,HC_1-5
+HC_1-6,HC,814860,11073,HC,NEURON,Gad1Gad2_Pvalb,Tac1,Neuron.Gad1Gad2_Pvalb.Tac1,Interneuron;  Basket 1,1-6,HC_1-6
+HC_1-7,HC,405521,10294,HC,NEURON,Gad1Gad2_Pvalb,Gfra1,Neuron.Gad1Gad2_Pvalb.Gfra1,Interneuron;  Basket 1,1-7,HC_1-7
+HC_1-8,HC,339043,10397,HC,NEURON,Gad1Gad2_Sst,Rbp4,Neuron.Gad1Gad2_Sst.Rbp4,Interneuron;  OLM2 (CA1 enriched?),1-8,HC_1-8
+HC_1-9,HC,383449,10455,HC,NEURON,Gad1Gad2_Sst,Grm1,Neuron.Gad1Gad2_Sst.Grm1,Interneuron;  OLM3 (CA1 enriched?),1-9,HC_1-9
+HC_10-1,HC,352893,10704,HC,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,10-1,HC_10-1
+HC_10-2,HC,69589,8187,HC,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,10-2,HC_10-2
+HC_11-1,HC,1269533,12091,HC,EPENDYMAL,Ccdc153,,Ependymal.Ccdc153,Ependymal.Ccdc153,11-1,HC_11-1
+HC_12-1,HC,270832,9750,HC,CHOROID_PLEXUS,Ttr,Ttr,Choroid_Plexus.Ttr,Choroid_Plexus.Ttr,12-1,HC_12-1
+HC_13-1,HC,122103,9152,HC,NEUROGENESIS,Sox4,Efhd2,Neurogenesis.Sox4.Efhd2,Neurogenesis (SGZ),13-1,HC_13-1
+HC_13-2,HC,224531,9758,HC,NEUROGENESIS,Sox4,Hist1h2al,Neurogenesis.Sox4.Hist1h2al,Neurogenesis (SGZ),13-2,HC_13-2
+HC_13-3,HC,101951,8568,HC,NEUROGENESIS,Sox4,Cdc20,Neurogenesis.Sox4.Cdc20,Neurogenesis (SGZ),13-3,HC_13-3
+HC_13-4,HC,28107,5983,HC,NEUROGENESIS,Sox4,Gad2,Neurogenesis.Sox4.Gad2,Neurogenesis (SGZ),13-4,HC_13-4
+HC_13-5,HC,188617,9879,HC,NEUROGENESIS,Sox4,Gabra5,Neurogenesis.Sox4.Gabra5,Neurogenesis (SGZ),13-5,HC_13-5
+HC_13-6,HC,104575,8812,HC,NEUROGENESIS,Sox4,Ppp2r2b,Neurogenesis.Sox4.Ppp2r2b,Neurogenesis (SGZ),13-6,HC_13-6
+HC_14-1,HC,423961,10785,HC,NEURON,Slc17a6,Lhx1,Neuron.Slc17a6.Lhx1,Cajal-retzius,14-1,HC_14-1
+HC_15-1,HC,3197053,12191,HC,ENDOTHELIAL_STALK,Flt1,Cdkn2b,Endothelial_Stalk.Flt1.Cdkn2b,Endothelial_Stalk.Flt1.Cdkn2b,15-1,HC_15-1
+HC_15-2,HC,283515,9967,HC,ENDOTHELIAL_STALK,Flt1,Lcn2,Endothelial_Stalk.Flt1.Lcn2,Endothelial_Stalk.Flt1.Lcn2,15-2,HC_15-2
+HC_16-1,HC,448264,10568,HC,MURAL,Rgs5Acta2,Cnn1,Mural.Rgs5Acta2.Cnn1,Mural.Rgs5Acta2.Cnn1,16-1,HC_16-1
+HC_16-2,HC,249045,9992,HC,MURAL,Rgs5Acta2,Ccnd1,Mural.Rgs5Acta2.Ccnd1,Mural.Rgs5Acta2.Ccnd1,16-2,HC_16-2
+HC_16-3,HC,106682,9005,HC,MURAL,Rgs5Acta2,Kcnj8,Mural.Rgs5Acta2.Kcnj8,Mural.Rgs5Acta2.Kcnj8,16-3,HC_16-3
+HC_16-4,HC,37177,6665,HC,MURAL,Rgs5Acta2,Col3a1,Mural.Rgs5Acta2.Col3a1,Mural.Rgs5Acta2.Col3a1,16-4,HC_16-4
+HC_17-1,HC,222388,10196,HC,ENDOTHELIAL_TIP,Dcn,Rbp4,Endothelial_Tip.Dcn.Rbp4,Endothelial_Tip.Dcn.Rbp4,17-1,HC_17-1
+HC_17-2,HC,37461,6325,HC,ENDOTHELIAL_TIP,Dcn,Agt,Endothelial_Tip.Dcn.Agt,Endothelial_Tip.Dcn.Agt,17-2,HC_17-2
+HC_17-3,HC,108419,8976,HC,ENDOTHELIAL_TIP,Dcn,Mgp,Endothelial_Tip.Dcn.Mgp,Endothelial_Tip.Dcn.Mgp,17-3,HC_17-3
+HC_17-4,HC,82616,8301,HC,ENDOTHELIAL_TIP,Dcn,Il33,Endothelial_Tip.Dcn.Il33,Endothelial_Tip.Dcn.Il33,17-4,HC_17-4
+HC_2-1,HC,731967,10729,HC,NEURON,Slc17a7,Cbln4,Neuron.Slc17a7.Cbln4,Neuron.Slc17a7.Cbln4,2-1,HC_2-1
+HC_2-2,HC,482910,10446,HC,NEURON,Slc17a6,Htr1a,Neuron.Slc17a6.Htr1a,Neuron.Slc17a6.Htr1a,2-2,HC_2-2
+HC_2-3,HC,307006,9980,HC,NEURON,Slc17a6,Nts,Neuron.Slc17a6.Nts,Neuron.Slc17a6.Nts,2-3,HC_2-3
+HC_2-4,HC,304418,10161,HC,NEURON,Slc17a6,Nnat,Neuron.Slc17a6.Nnat,Neuron.Slc17a6.Nnat,2-4,HC_2-4
+HC_2-5,HC,2320270,11831,HC,NEURON,Slc17a6,Nell1,Neuron.Slc17a6.Nell1,Neuron.Slc17a6.Nell1,2-5,HC_2-5
+HC_2-6,HC,2353070,11828,HC,NEURON,Slc17a6,Nefm,Neuron.Slc17a6.Nefm,Neuron.Slc17a6.Nefm,2-6,HC_2-6
+HC_2-7,HC,1781906,11646,HC,NEURON,Slc17a6,Grp,Neuron.Slc17a6.Grp,Neuron.Slc17a6.Grp,2-7,HC_2-7
+HC_3-1,HC,332523,9956,HC,NEURON,Slc17a7-Slc17a6,Nxph3-Nts,Neuron.Slc17a7-Slc17a6.Nxph3-Nts,Subiculum,3-1,HC_3-1
+HC_3-10,HC,1377929,11348,HC,NEURON,Slc17a7,Nxph3-Sema3c,Neuron.Slc17a7.Nxph3-Sema3c,Entorhinal cortex,3-10,HC_3-10
+HC_3-11,HC,250457,10144,HC,NEURON,Slc17a7,Nxph3-Ajap1,Neuron.Slc17a7.Nxph3-Ajap1,Entorhinal cortex,3-11,HC_3-11
+HC_3-2,HC,994754,11238,HC,NEURON,Slc17a7-Slc17a6,Nxph3-Cbln2-Htr2c,Neuron.Slc17a7-Slc17a6.Nxph3-Cbln2-Htr2c,Deep layer subiculum,3-2,HC_3-2
+HC_3-3,HC,927374,11067,HC,NEURON,Slc17a7-Slc17a6,Nxph3-Cbln2-Kcnh8,Neuron.Slc17a7-Slc17a6.Nxph3-Cbln2-Kcnh8,Deep layer subiculum,3-3,HC_3-3
+HC_3-4,HC,56180,6952,HC,NEURON,Slc17a7,Nxph3-Hpcal1-Tpbg,Neuron.Slc17a7.Nxph3-Hpcal1-Tpbg,Entorhinal cortex,3-4,HC_3-4
+HC_3-5,HC,88685,8191,HC,NEURON,Slc17a7,Nxph3-Hpcal1-Fos,Neuron.Slc17a7.Nxph3-Hpcal1-Fos,Entorhinal cortex (IEG),3-5,HC_3-5
+HC_3-6,HC,1739588,11561,HC,NEURON,Slc17a7,Nxph3-Hpcal-Igfbp4,Neuron.Slc17a7.Nxph3-Hpcal-Igfbp4,Entorhinal cortex,3-6,HC_3-6
+HC_3-7,HC,1354012,11393,HC,NEURON,Slc17a7,Nxph3-Hpcal-Krt12,Neuron.Slc17a7.Nxph3-Hpcal-Krt12,Entorhinal cortex,3-7,HC_3-7
+HC_3-8,HC,553506,10589,HC,NEURON,Slc17a7,Nxph3-Cplx3-Hs6st2,Neuron.Slc17a7.Nxph3-Cplx3-Hs6st2,Entorhinal cortex,3-8,HC_3-8
+HC_3-9,HC,197533,9539,HC,NEURON,Slc17a7,Nxph3-Cplx3-Pappa2,Neuron.Slc17a7.Nxph3-Cplx3-Pappa2,Entorhinal cortex,3-9,HC_3-9
+HC_4-1,HC,37475029,13775,HC,NEURON,Slc17a7,C1ql2-Cck,Neuron.Slc17a7.C1ql2-Cck,Dentate Principal cells,4-1,HC_4-1
+HC_4-2,HC,4110133,12269,HC,NEURON,Slc17a7,C1ql2-Penk,Neuron.Slc17a7.C1ql2-Penk,Dentate Principal cells,4-2,HC_4-2
+HC_5-1,HC,13471962,13020,HC,NEURON,Slc17a7,Fibcd1-Lypd1,Neuron.Slc17a7.Fibcd1-Lypd1,CA1 Principal cells (Anterior),5-1,HC_5-1
+HC_5-10,HC,223334,9654,HC,NEURON,Slc17a7,Cbln1-Reln,Neuron.Slc17a7.Reln,Medial entorrhinal cortexm;  Reln+/Cbln1+,5-10,HC_5-10
+HC_5-11,HC,3472816,12122,HC,NEURON,Slc17a7,Cbln1-Gpr88,Neuron.Slc17a7.Cbln1-Gpr88,Medial entorrhinal cortex,5-11,HC_5-11
+HC_5-12,HC,393480,10255,HC,NEURON,Slc17a7,Cbln1-Trps1,Neuron.Slc17a7.Cbln1-Trps1,Medial entorrhinal cortex;  Cbln1+/Trps1+,5-12,HC_5-12
+HC_5-13,HC,126113,8939,HC,NEURON,Slc17a7,Ptgfr,Neuron.Slc17a7.Ptgfr,Postsubiculum,5-13,HC_5-13
+HC_5-14,HC,2927100,11999,HC,NEURON,Slc17a7,Fezf2,Neuron.Slc17a7.Fezf2-Efna5,Subiculum,5-14,HC_5-14
+HC_5-15,HC,1162064,11149,HC,NEURON,Slc17a7,Fezf2-Rxfp1,Neuron.Slc17a7.Fezf2-Rxfp1,Subiculum,5-15,HC_5-15
+HC_5-2,HC,3420591,11901,HC,NEURON,Slc17a7,Fibcd1-Nrip3,Neuron.Slc17a7.Fibcd1-Nrip3,CA1 Principal cells,5-2,HC_5-2
+HC_5-3,HC,4599630,12248,HC,NEURON,Slc17a7,Fibcd1-Nptx2,Neuron.Slc17a7.Fibcd1-Nptx2,CA1 Principal cells,5-3,HC_5-3
+HC_5-4,HC,3333041,12030,HC,NEURON,Slc17a7,Fibcd1-Kitl,Neuron.Slc17a7.Fibcd1-Kitl,CA1 Principal cells,5-4,HC_5-4
+HC_5-5,HC,237925,9665,HC,NEURON,Slc17a7,Fibcd1-Grm5,Neuron.Slc17a7.Fibcd1-Grm5,CA1 Principal cells,5-5,HC_5-5
+HC_5-6,HC,6629011,12658,HC,NEURON,Slc17a7,Dcn-Pou3f1,Neuron.Slc17a7.Dcn-Pou3f1,Anterior Subiculum;  proximal to CA1,5-6,HC_5-6
+HC_5-7,HC,2008046,11621,HC,NEURON,Slc17a7,Fibcd1-Inhba,Neuron.Slc17a7.FIbcd1-Inhba,CA1 Principal cells,5-7,HC_5-7
+HC_5-8,HC,596433,10600,HC,NEURON,Slc17a7,Fibcd1-Fos,Neuron.Slc17a7.Fibcd1-Fos,CA1 Principal cells,5-8,HC_5-8
+HC_5-9,HC,504022,10689,HC,NEURON,Slc17a7,Dcn-Camk2d,Neuron.Slc17a7.Dcn-Camk2d,CA1 Principal cells,5-9,HC_5-9
+HC_6-1,HC,43020936,13851,HC,NEURON,Slc17a7,Pvrl3-Nos1,Neuron.Slc17a7.Pvrl3-Nos1,CA3 Principal cells,6-1,HC_6-1
+HC_6-2,HC,1019674,11036,HC,NEURON,Slc17a7,Pvrl3-Grm5,Neuron.Slc17a7.Pvrl3-Grm5,CA3 Principal cells,6-2,HC_6-2
+HC_6-3,HC,3450937,12189,HC,NEURON,Slc17a7,Pvrl3-St18,Neuron.Slc17a7.Pvrl3-St18,Lateral CA3 Principal cells,6-3,HC_6-3
+HC_6-4,HC,2425366,11675,HC,NEURON,Slc17a7,Rgs14,Neuron.Slc17a7.Rgs14,CA2 Principal cells,6-4,HC_6-4
+HC_6-5,HC,758382,10856,HC,NEURON,Slc17a7,Calb2-Vgll3,Neuron.Slc17a7.Calb2-Vgll3,Dentate hilum?,6-5,HC_6-5
+HC_6-6,HC,2644853,12176,HC,NEURON,Slc17a7,Calb2-Adcyap1,Neuron.Slc17a7.Calb2-Adcyap1,Dentate hilum?,6-6,HC_6-6
+HC_6-7,HC,2311641,11755,HC,NEURON,Slc17a7,Pvrl3-Inhba,Neuron.Slc17a7.Pvrl3-Inhba,CA3 Principal cells,6-7,HC_6-7
+HC_6-8,HC,658262,10676,HC,NEURON,Slc17a7,Pvrl3-Fos,Neuron.Slc17a7.Pvrl3-Fos,CA3 Principal cells,6-8,HC_6-8
+HC_7-1,HC,12206176,13107,HC,ASTROCYTE,Gja1,Nnat,Astrocyte.Gja1.Nnat,Astrocyte.Gja1.Nnat,7-1,HC_7-1
+HC_7-2,HC,918726,11320,HC,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Astrocyte.Gja1.Myoc,7-2,HC_7-2
+HC_7-3,HC,397815,10652,HC,ASTROCYTE,Gja1,Fabp7,Astrocyte.Gja1.Fabp7,Astrocyte.Gja1.Fabp7,7-3,HC_7-3
+HC_8-1,HC,861075,10638,HC,OLIGODENDROCYTE,Trf,Plin3,Oligodendrocyte.Trf.Plin3,Oligodendrocyte.Trf.Plin3,8-1,HC_8-1
+HC_8-2,HC,381551,10147,HC,OLIGODENDROCYTE,Trf,Ndrg2,Oligodendrocyte.Trf.Ndrg2,MyelinProcesses,8-2,HC_8-2
+HC_8-3,HC,1767942,11465,HC,OLIGODENDROCYTE,Trf,Il33,Oligodendrocyte.Trf.Il33,Oligodendrocyte.Trf.Il33,8-3,HC_8-3
+HC_8-4,HC,636625,10396,HC,OLIGODENDROCYTE,Trf,Man1a,Oligodendrocyte.Trf.Man1a,Oligodendrocyte.Trf.Man1a,8-4,HC_8-4
+HC_8-5,HC,63673,6650,HC,OLIGODENDROCYTE,Trf,Ctps,Oligodendrocyte.Trf.Ctps,Oligodendrocyte.Trf.Ctps,8-5,HC_8-5
+HC_9-1,HC,508953,10482,HC,POLYDENDROCYTE,Tnr,Pdgfa,Polydendrocyte.Tnr.Pdgfa,Polydendrocyte.Tnr.Pdgfa,9-1,HC_9-1
+HC_9-2,HC,242140,9930,HC,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocyte.Tnr.Bmp4,Polydendrocyte.Tnr.Bmp4,9-2,HC_9-2
+HC_9-3,HC,387867,10961,HC,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,9-3,HC_9-3
+HC_9-4,HC,267298,10609,HC,POLYDENDROCYTE,Tnr,Ptprz1,Polydendrocyte.Tnr.Ptprz1,Polydendrocyte.Tnr.Ptprz1,9-4,HC_9-4
+STR_1-1,STR,637982,11734,STR,EPENDYMAL,Ccdc153,Ccdc153,Ependyma_Ccdc153.Ccdc153,Ependyma_Ccdc153.Ccdc153,1-1,STR_1-1
+STR_10-1,STR,2475214,11521,STR,NEURON,Gad1Gad2,Drd1-Fos,Neuron.Gad1Gad2.Drd1-Fos,dSPN;  IEG+,10-1,STR_10-1
+STR_10-2,STR,5927160,12260,STR,NEURON,Gad1Gad2,Drd1-Lypd1,Neuron.Gad1Gad2.Drd1-Lypd1,dSPN;  patch,10-2,STR_10-2
+STR_10-3,STR,1872252,11515,STR,NEURON,Gad1Gad2,Drd1-Pde1a,Neuron.Gad1Gad2.Drd1-Pde1a,dSPN,10-3,STR_10-3
+STR_10-4,STR,40216059,13629,STR,NEURON,Gad1Gad2,Drd1-Nefm,Neuron.Gad1Gad2.Drd1-Nefm,dSPN,10-4,STR_10-4
+STR_10-5,STR,938967,10690,STR,NEURON,Gad1Gad2,Drd1-Cxcl14,Neuron.Gad1Gad2.Drd1-Cxcl14,dSPN;  lateral striatum,10-5,STR_10-5
+STR_11-1,STR,31115093,13407,STR,NEURON,Gad1Gad2,Adora2a-Nefm,Neuron.Gad1Gad2.Adora2a-Nefm,iSPN,11-1,STR_11-1
+STR_11-2,STR,5233367,12213,STR,NEURON,Gad1Gad2,Adora2a-Nnat,Neuron.Gad1Gad2.Adora2a-Nnat,iSPN,11-2,STR_11-2
+STR_11-3,STR,1580263,11068,STR,NEURON,Gad1Gad2,Adora2a-Fos,Neuron.Gad1Gad2.Adora2a-Fos,iSPN;  IEG+,11-3,STR_11-3
+STR_12-1,STR,1302754,11256,STR,NEURON,Gad1Gad2-Chat-Slc17a8,Chat,Neuron.Gad1Gad2-Chat-Slc17a8.Chat,cholinergic interneuron,12-1,STR_12-1
+STR_13-1,STR,691372,10718,STR,NEURON,Gad1Gad2,Drd1-Tpbg,Neuron.Gad1Gad2.Drd1-Tpbg,eccentric SPN;  dSPN-like markers,13-1,STR_13-1
+STR_13-10,STR,91115,8352,STR,NEURON,Gad1Gad2,Drd1-Nfib,Neuron.Gad1Gad2.Drd1-Nfib,Amygdala,13-10,STR_13-10
+STR_13-11,STR,9903,3351,STR,NEURON,Gad1Gad2,Sgol2a,Neuron.Gad1Gad2.Sgol2a,Very small cluster,13-11,STR_13-11
+STR_13-2,STR,629806,10528,STR,NEURON,Gad1Gad2,Drd1-Otof,Neuron.Gad1Gad2.Drd1-Otof-Sorcs1,eccentric SPN;  dSPN-like markers,13-2,STR_13-2
+STR_13-3,STR,454357,10146,STR,NEURON,Gad1Gad2,Drd1-Otof,Neuron.Gad1Gad2.Drd1-Otof-Lmo2,eccentric SPN;  dSPN-like markers,13-3,STR_13-3
+STR_13-4,STR,527652,10319,STR,NEURON,Gad1Gad2,Adora2a-Otof,Neuron.Gad1Gad2.Adora2a-Otof,eccentric SPN;  iSPN-like markers,13-4,STR_13-4
+STR_13-5,STR,188448,9315,STR,NEURON,Gad1Gad2,Adora2a-Th,Neuron.Gad1Gad2.Adora2a-Th,eccentric SPN;  iSPN-like markers;  Th+,13-5,STR_13-5
+STR_13-6,STR,23961,5642,STR,NEURON,Slc17a6,Oprk1,Neuron.Slc17a6.Oprk1,Claustrum cortex,13-6,STR_13-6
+STR_13-7,STR,117735,8646,STR,NEURON,Slc17a7,Cplx3,Neuron.Slc17a7.Cplx3,Cortical subplate,13-7,STR_13-7
+STR_13-8,STR,58313,7600,STR,NEURON,Slc17a7,Dkk3,Neuron.Slc17a7.Dkk3,Deep layer cortex,13-8,STR_13-8
+STR_13-9,STR,326553,10346,STR,NEURON,Gad1Gad2,Resp18,Neuron.Gad1Gad2.Resp18,Bed nucleus of the stria terminalis (BNST),13-9,STR_13-9
+STR_14-1,STR,1622857,11363,STR,NEURON,Gad1Gad2,Pvalb-Megf11,Neuron.Gad1Gad2_Pvalb.Pvalb-Megf11,Fast-spiking interneuron;  Pvalb+,14-1,STR_14-1
+STR_14-2,STR,63378,7502,STR,NEURON,Gad1Gad2,Pnoc,Neuron.Gad1Gad2.Pnoc,Fast-spiking interneuron;  Pvalb+/Pnoc+,14-2,STR_14-2
+STR_14-3,STR,344560,10046,STR,NEURON,Gad1Gad2,Pvalb-Rgs12,Neuron.Gad1Gad2.Pvalb-Rgs12,Fast-spiking interneuron;  Pvalb+/Rgs12+,14-3,STR_14-3
+STR_14-4,STR,288325,10092,STR,NEURON,Gad1Gad2-Th,Trh,Neuron.Gad1Gad2-Th.Trh,Th+ interneuron,14-4,STR_14-4
+STR_15-1,STR,1068927,11128,STR,NEURON,Gad1Gad2,Chodl,Neuron.Gad1Gad2.Chodl,Low-threshold spiking interneuron;  Npy+/Sst+,15-1,STR_15-1
+STR_2-1,STR,190962,9414,STR,NEUROGENESIS,Sox4,Ung,Neurogenesis.Sox4.Ung,Rostral migratory stream (RMS),2-1,STR_2-1
+STR_2-2,STR,82609,8048,STR,NEUROGENESIS,Sox4,Stmn2,Neurogenesis.Sox4.Stmn2,Rostral migratory stream (RMS),2-2,STR_2-2
+STR_2-3,STR,228846,9513,STR,NEUROGENESIS,Sox4,Tuba1c,Neurogenesis.Sox4.Tuba1c,Rostral migratory stream (RMS),2-3,STR_2-3
+STR_2-4,STR,97366,8130,STR,NEUROGENESIS,Sox4,Stmn2-Csrp2,Neurogenesis.Sox4.Stmn2-Csrp2,Rostral migratory stream (RMS),2-4,STR_2-4
+STR_2-5,STR,344482,10063,STR,NEUROGENESIS,Sox4,Hist1h2al,Neurogenesis.Sox4.Hist1h2al,Rostral migratory stream (RMS),2-5,STR_2-5
+STR_2-6,STR,72551,8119,STR,NEUROGENESIS,Sox4,Notum,Neurogenesis.Sox4.Notum,Rostral migratory stream (RMS),2-6,STR_2-6
+STR_3-1,STR,571502,10222,STR,OLIGODENDROCYTE,Trf,Klk6,Oligodendrocyte.Trf.Klk6,Oligodendrocyte.Trf.Klk6,3-1,STR_3-1
+STR_3-2,STR,1489835,11359,STR,OLIGODENDROCYTE,Trf,Il33,Oligodendrocyte.Trf.Il33,Oligodendrocyte.Trf.Il33,3-2,STR_3-2
+STR_3-3,STR,514118,9934,STR,OLIGODENDROCYTE,Trf,Ctps,Oligodendrocyte.Trf.Ctps,Oligodendrocyte.Trf.Ctps,3-3,STR_3-3
+STR_4-1,STR,1862485,11776,STR,ASTROCYTE,Gja1,Htra1,Astrocyte.Gja1.Htra1,Astrocyte.Gja1.Htra1,4-1,STR_4-1
+STR_4-2,STR,602528,10830,STR,ASTROCYTE,Gja1,Sparc-Car2,Astrocyte.Gja1.Sparc-Car2,Astrocyte.Gja1.Sparc-Car2,4-2,STR_4-2
+STR_4-3,STR,228433,10196,STR,ASTROCYTE,Gja1,Notum,Astrocyte.Gja1.Notum,Astrocyte.Gja1.Notum,4-3,STR_4-3
+STR_5-1,STR,324021,10794,STR,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocye.Tnr.Cspg5,Polydendrocye.Tnr.Cspg5,5-1,STR_5-1
+STR_5-2,STR,143665,9126,STR,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocye.Tnr.Bmp4,Polydendrocye.Tnr.Bmp4,5-2,STR_5-2
+STR_5-3,STR,151338,8627,STR,POLYDENDROCYTE,Tnr,Pdgfa,Polydendrocye.Tnr.Pdgfa,Polydendrocye.Tnr.Pdgfa,5-3,STR_5-3
+STR_5-4,STR,42045,5545,STR,POLYDENDROCYTE,Tnr,Ctps,Polydendrocye.Tnr.Ctps,Polydendrocye.Tnr.Ctps,5-4,STR_5-4
+STR_6-1,STR,32231,6301,STR,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,6-1,STR_6-1
+STR_6-2,STR,296428,10443,STR,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,6-2,STR_6-2
+STR_7-1,STR,761698,11141,STR,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,7-1,STR_7-1
+STR_7-2,STR,430349,10432,STR,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,7-2,STR_7-2
+STR_8-1,STR,98643,8425,STR,MURAL,Rgs5Acta2,Olfr558,Mural.Rgs5Acta2.Olfr558,Mural.Rgs5Acta2.Olfr558,8-1,STR_8-1
+STR_8-2,STR,75707,7637,STR,MURAL,Rgs5Acta2,Cnn1,Mural.Rgs5Acta2.Cnn1,Mural.Rgs5Acta2.Cnn1,8-2,STR_8-2
+STR_8-3,STR,113768,8828,STR,MURAL,Rgs5Acta2,Ccnd1,Mural.Rgs5Acta2.Ccnd1,Mural.Rgs5Acta2.Ccnd1,8-3,STR_8-3
+STR_8-4,STR,66956,7853,STR,MURAL,Rgs5Acta2,Kcnj8,Mural.Rgs5Acta2.Kcnj8,Mural.Rgs5Acta2.Kcnj8,8-4,STR_8-4
+STR_8-5,STR,28344,5974,STR,MURAL,Rgs5Acta2,Col3a1,Mural.Rgs5Acta2.Col3a1,Mural.Rgs5Acta2.Col3a1,8-5,STR_8-5
+STR_9-1,STR,149320,9976,STR,ENDOTHELIAL_TIP,Dcn,Dcn,Endothelial_Tip.Dcn,Endothelial_Tip.Dcn,9-1,STR_9-1
+SN_1-1,SN,74463,8312,SN,NEURON,Slc17a7,C1ql3,Neuron.Slc17a7.C1ql3,Hippocampus Excitatory Neuron,1-1,SN_1-1
+SN_10-1,SN,6303919,12584,SN,OLIGODENDROCYTE,Tfr,Slco3a1,Oligodendrocyte.Tfr.Slco3a1,Oligodendrocyte.Tfr.Slco3a1,10-1,SN_10-1
+SN_10-2,SN,2403545,11583,SN,OLIGODENDROCYTE,Tfr,Plin3,Oligodendrocyte.Tfr.Plin3,Oligodendrocyte.Tfr.Plin3,10-2,SN_10-2
+SN_10-3,SN,1022901,10903,SN,OLIGODENDROCYTE,Tfr,Ndrg2,Oligodendrocyte.Tfr.Ndrg2,Oligodendrocyte.Tfr.Ndrg2,10-3,SN_10-3
+SN_10-4,SN,5781453,12432,SN,OLIGODENDROCYTE,Tfr,Il33,Oligodendrocyte.Tfr.Il33,Oligodendrocyte.Tfr.Il33,10-4,SN_10-4
+SN_10-5,SN,1272651,10993,SN,OLIGODENDROCYTE,Tfr,Ctps,Oligodendrocyte.Tfr.Ctps,Oligodendrocyte.Tfr.Ctps,10-5,SN_10-5
+SN_11-1,SN,169911,8596,SN,OLIGODENDROCYTE,Tnr,Rps24,Oligodendrocyte.Tnr.Rps24,Oligodendrocyte.Tnr.Rps24,11-1,SN_11-1
+SN_12-1,SN,1097020,11195,SN,ENDOTHELIAL_STALK,Flt1,Cdkn1c,Endothelial_Stalk.Flt1.Cdkn1c,Endothelial_Stalk.Flt1.Cdkn1c,12-1,SN_12-1
+SN_12-2,SN,97179,8448,SN,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,12-2,SN_12-2
+SN_12-3,SN,967705,11097,SN,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,12-3,SN_12-3
+SN_12-4,SN,688937,10746,SN,ENDOTHELIAL_STALK,Flt1,Vwf,Endothelial_Stalk.Flt1.Vwf,Endothelial_Stalk.Flt1.Vwf,12-4,SN_12-4
+SN_13-1,SN,236305,9758,SN,MURAL,Rgs5Acta2,Rgs5,Mural.Rgs5Acta2.Rgs5,Mural.Rgs5Acta2.Rgs5,13-1,SN_13-1
+SN_13-2,SN,31424,5839,SN,MURAL,Rgs5Acta2,Kcnj8,Mural.Rgs5Acta2.Kcnj8,Mural.Rgs5Acta2.Kcnj8,13-2,SN_13-2
+SN_13-3,SN,405848,10205,SN,MURAL,Rgs5Acta2,Cd9,Mural.Rgs5Acta2.Cd9,Mural.Rgs5Acta2.Cd9,13-3,SN_13-3
+SN_13-4,SN,170597,8801,SN,MURAL,Rgs5Acta2,Cbr2,Mural.Rgs5Acta2.Cbr2,Mural.Rgs5Acta2.Cbr2,13-4,SN_13-4
+SN_13-5,SN,94602,7955,SN,MURAL,Rgs5Acta2,Fos,Mural.Rgs5Acta2.Fos,Mural.Rgs5Acta2.Fos,13-5,SN_13-5
+SN_14-1,SN,120212,9018,SN,ENDOTHELIAL_TIP,Dcn,Mgp,Endothelial_Tip.Dcn.Mgp,Endothelial_Tip.Dcn.Mgp,14-1,SN_14-1
+SN_14-2,SN,89319,8151,SN,ENDOTHELIAL_TIP,Dcn,Ifitm1,Endothelial_Tip.Dcn.Ifitm1,Endothelial_Tip.Dcn.Ifitm1,14-2,SN_14-2
+SN_14-3,SN,10145,3517,SN,ENDOTHELIAL_TIP,Dcn,Alcam,Endothelial_Tip.Dcn.Alcam,Endothelial_Tip.Dcn.Alcam,14-3,SN_14-3
+SN_2-1,SN,258372,10464,SN,NEURON,Slc17a6,,Neuron.Slc17a6,Thalamus;  glutamatergic,2-1,SN_2-1
+SN_3-1,SN,205175,10234,SN,NEURON,Gad1Gad2,Nfib-Satb1,Neuron.Gad1Gad2.Nfib-Satb1,Supramammillary Nucleus (SuM),3-1,SN_3-1
+SN_3-10,SN,1140982,12202,SN,NEURON,Slc17a6,Cacna2d1,Neuron.Slc17a6.Cacna2d1,generic SN/VTA glutamatergic neuron,3-10,SN_3-10
+SN_3-11,SN,334570,10838,SN,NEURON,Slc17a6,Shox2,Neuron.Slc17a6.Shox2,peripeduncular nucleus & posterior intralaminar thalamic nucleus (PP & PIL),3-11,SN_3-11
+SN_3-12,SN,520641,11074,SN,NEURON,Slc17a6,Nkx6-1,Neuron.Slc17a6.Nkx6-1,SN/VTA (SNr),3-12,SN_3-12
+SN_3-13,SN,970294,11504,SN,NEURON,Gad1Gad2,Sema3e,Neuron.Gad1Gad2.Sema3e,SN/VTA (SNr),3-13,SN_3-13
+SN_3-14,SN,712603,11229,SN,NEURON,Gad1Gad2,Ttn,Neuron.Gad1Gad2.Ttn,red nucleus;  magnocellular/parvicellular (RMC/RPC),3-14,SN_3-14
+SN_3-15,SN,1339866,11850,SN,NEURON,Slc17a6,C1ql2,Neuron.Slc17a6.C1ql2,red nucleus;  magnocellular/parvicellular (RMC/RPC),3-15,SN_3-15
+SN_3-16,SN,248334,10400,SN,NEURON,Gad1Gad2,Gad2-Kcnc3,Neuron.Gad1Gad2.Gad2-Kcnc3,GABAergic;  K/Na Channel State,3-16,SN_3-16
+SN_3-17,SN,155718,9558,SN,NEURON,Gad1Gad2,Sema3e-Kcng4,Neuron.Gad1Gad2.Sema3e-Kcng4,GABAergic;  K Channel State;  Sema3e+ SN/VTA (SNr),3-17,SN_3-17
+SN_3-18,SN,939115,11601,SN,NEURON,Gad1Gad2,Pax5,Neuron.Gad1Gad2.Pax5,SN/VTA (SNr),3-18,SN_3-18
+SN_3-19,SN,171553,9737,SN,NEURON,Gad1Gad2,Tmem132c,Neuron.Gad1Gad2.Tmem132c,SN/VTA (SNr),3-19,SN_3-19
+SN_3-2,SN,159977,9401,SN,NEURON,Gad1Gad2,Otx2-Chrna3,Neuron.Gad1Gad2.Otx2-Chrna3,SN/VTA (dorsal SNr),3-2,SN_3-2
+SN_3-3,SN,1780772,12328,SN,NEURON,Gad1Gad2,Gad2,Neuron.Gad1Gad2.Gad2,generic SN/VTA GABAergic neuron,3-3,SN_3-3
+SN_3-4,SN,104618,9002,SN,NEURON,Gad1Gad2,Ndnf,Neuron.Gad1Gad2.Ndnf,medial geniculate nucleus;  ventral part (MGV)? Or State? ,3-4,SN_3-4
+SN_3-5,SN,70563,8209,SN,NEURON,Gad1Gad2,Rln3,Neuron.Gad1Gad2.Rln3,parabrachial pigmented nucleus (PBP),3-5,SN_3-5
+SN_3-6,SN,273656,10586,SN,NEURON,Slc17a6,Tcf4,Neuron.Slc17a6.Tcf4,Supramammillary Nucleus (SuM),3-6,SN_3-6
+SN_3-7,SN,249745,10357,SN,NEURON,Slc17a6-Gad2-Th,Crhbp,Neuron.Slc17a6-Gad2-Th.Crhbp, Supramammillary Nucleus (SuM) Dopaminergic?;  Th+/Ddc+,3-7,SN_3-7
+SN_3-8,SN,101032,9128,SN,NEURON,Gad1Gad2,Fos,Neuron.Gad1Gad2.Gad2-Fos,IEG state;  GABAergic ,3-8,SN_3-8
+SN_3-9,SN,257475,10317,SN,NEURON,Slc17a6,Nts,Neuron.Slc17a6.Nts,peripeduncular nucleus & posterior intralaminar thalamic nucleus (PP & PIL),3-9,SN_3-9
+SN_4-1,SN,269803,10381,SN,NEURON,Th-Slc17a6,Lpl,Neuron.Th-Slc17a6-Lpl,VTA (ventral VTA),4-1,SN_4-1
+SN_4-2,SN,117336,9226,SN,NEURON,Th,Cbln1,Neuron.Th.Cbln1,VTA (dorsal VTA),4-2,SN_4-2
+SN_4-3,SN,273961,10166,SN,NEURON,Th,Cyp26b1,Neuron.Th.Cyp26b1,SNc/VTA,4-3,SN_4-3
+SN_4-4,SN,141057,9423,SN,NEURON,Th,C1ql3,Neuron.Th.C1ql3,VTA (dorsal VTA),4-4,SN_4-4
+SN_4-5,SN,292950,10302,SN,NEURON,Th,Vcan,Neuron.Th.Vcan,SNc,4-5,SN_4-5
+SN_4-6,SN,28530,5793,SN,NEURON,Th,Cadm2,Neuron.Th.Cadm2,Cadm2 state,4-6,SN_4-6
+SN_4-7,SN,288945,10203,SN,NEURON,Th,Nefm,Neuron.Th.Nefl,Neurofilament state,4-7,SN_4-7
+SN_4-8,SN,412923,10652,SN,NEURON,Th,Anxa1,Neuron.Th.Aldh1a1,SNc/VTA,4-8,SN_4-8
+SN_4-9,SN,498193,10788,SN,NEURON,Th,Grin2c,Neuron.Th.Grin2c,SNc,4-9,SN_4-9
+SN_5-1,SN,165217,9129,SN,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocyte.Tnr.Bmp4,Polydendrocyte.Tnr.Bmp4,5-1,SN_5-1
+SN_5-2,SN,338253,9525,SN,POLYDENDROCYTE,Tnr,Tmem2,Polydendrocyte.Tnr.Tmem2,Polydendrocyte.Tnr.Tmem2,5-2,SN_5-2
+SN_5-3,SN,312106,9153,SN,POLYDENDROCYTE,Tnr,Opalin,Polydendrocyte.Tnr.Opalin,Polydendrocyte.Tnr.Opalin,5-3,SN_5-3
+SN_6-1,SN,31396,6969,SN,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,6-1,SN_6-1
+SN_6-2,SN,118893,9480,SN,POLYDENDROCYTE,Tnr,Cspg5-Dad1,Polydendrocyte.Tnr.Cspg5-Dad1,Polydendrocyte.Tnr.Cspg5-Dad1,6-2,SN_6-2
+SN_7-1,SN,199402,9952,SN,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Astrocyte.Gja1.Myoc,7-1,SN_7-1
+SN_7-2,SN,1111906,11625,SN,ASTROCYTE,Gja1,Cst3,Astrocyte.Gja1.Cst3,Astrocyte.Gja1.Cst3,7-2,SN_7-2
+SN_7-3,SN,19540,5390,SN,ASTROCYTE,Gja1,Igfbp2,Astrocyte.Gja1.Igfbp2,Astrocyte.Gja1.Igfbp2,7-3,SN_7-3
+SN_8-1,SN,36066,7003,SN,EPENDYMAL,Ccdc153,Ccdc153,Ependyma.Ccdc153,Ependyma.Ccdc153,8-1,SN_8-1
+SN_9-1,SN,85257,8723,SN,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,9-1,SN_9-1
+SN_9-2,SN,20336,4966,SN,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,9-2,SN_9-2
+TH_1-1,TH,224419,9849,TH,NEURON,Slc17a7,Tac2.Chat,Neuron.Slc17a7.Tac2.Chat,Habenular cholinergic cells,1-1,TH_1-1
+TH_1-2,TH,290752,10216,TH,NEURON,Slc17a7,Tac2.Syt15,Neuron.Slc17a7.Tac2.Syt15,Medial habenula,1-2,TH_1-2
+TH_1-3,TH,367275,10550,TH,NEURON,Slc17a7,Tac2.Wif1,Neuron.Slc17a7.Tac2.Wif1,Medial habenular;  lateral portion,1-3,TH_1-3
+TH_1-4,TH,49607,7604,TH,NEURON,Slc17a7,Tac2.Htr2c,Neuron.Slc17a7.Tac2.Htr2c,Lateral habenula,1-4,TH_1-4
+TH_10-1,TH,648278,11587,TH,EPENDYMAL,Ccdc153,,Ependymal.Ccdc153,Ependymal.Ccdc153,10-1,TH_10-1
+TH_11-1,TH,96912,8943,TH,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Astrocyte.Gja1.Myoc,11-1,TH_11-1
+TH_11-2,TH,704336,11359,TH,ASTROCYTE,Gja1,Vegfa,Astrocyte.Gja1.Vegfa,Astrocyte.Gja1.Vegfa,11-2,TH_11-2
+TH_12-1,TH,283845,9357,TH,POLYDENDROCYTE,Tnr,Pdgfa,Polydendrocyte.Tnr.Pdgfa,Polydendrocyte.Tnr.Pdgfa,12-1,TH_12-1
+TH_12-2,TH,450657,9434,TH,POLYDENDROCYTE,Tnr,Ctps,Polydendrocyte.Tnr.Ctps,Polydendrocyte.Tnr.Ctps,12-2,TH_12-2
+TH_12-3,TH,291411,9986,TH,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocyte.Tnr.Bmp4,Polydendrocyte.Tnr.Bmp4,12-3,TH_12-3
+TH_12-4,TH,73049,8689,TH,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,12-4,TH_12-4
+TH_2-1,TH,1613478,11793,TH,NEURON,Slc17a6,Rora.Atp2b4,Neuron.Slc17a6.Rora.Atp2b4,Lateral Geniculate Nucleus (LGN),2-1,TH_2-1
+TH_2-10,TH,10893550,13074,TH,NEURON,Slc17a6,Rora.Cacng4,Neuron.Slc17a6.Rora.Cacng4,Non-anterior nuclei,2-10,TH_2-10
+TH_2-11,TH,12722463,13050,TH,NEURON,Slc17a6,Rora.Pvalb,Neuron.Slc17a6.Rora.Pvalb,Non-anterior nuclei,2-11,TH_2-11
+TH_2-2,TH,3453592,12406,TH,NEURON,Slc17a6,Rora.Nptxr,Neuron.Slc17a6.Rora.Nptxr,Reuniens thalamic nucleus?,2-2,TH_2-2
+TH_2-3,TH,1787889,11781,TH,NEURON,Slc17a6,Rora.Calca,Neuron.Slc17a6.Rora.Calca,Parafasicular nucleus (PF),2-3,TH_2-3
+TH_2-4,TH,2996480,11982,TH,NEURON,Slc17a6,Rora.Nrp2,Neuron.Slc17a6.Rora.Nrp2,Anterior thalamus,2-4,TH_2-4
+TH_2-5,TH,350826,10415,TH,NEURON,Slc17a6,Rora.C1ql2,Neuron.Slc17a6.Rora.C1ql2,Anterodorsal thalamic nucleus,2-5,TH_2-5
+TH_2-6,TH,1703807,11604,TH,NEURON,Slc17a6,Rora.Fgf10,Neuron.Slc17a6.Rora.Fgf10,Lateral dorsal thalamic nuclei (LD),2-6,TH_2-6
+TH_2-7,TH,654483,10957,TH,NEURON,Slc17a6,Rora.Lypd6,Neuron.Slc17a6.Rora.Lypd6,Parafasicular nucleus (PF),2-7,TH_2-7
+TH_2-8,TH,5707004,12584,TH,NEURON,Slc17a6,Rora.Cbln2,Neuron.Slc17a6.Rora.Cbln2,Neuron.Slc17a6.Rora.Cbln2,2-8,TH_2-8
+TH_2-9,TH,789130,10848,TH,NEURON,Slc17a6,Rora.Lrrtm2,Neuron.Slc17a6.Rora.Lrrtm2,Cadm2 state,2-9,TH_2-9
+TH_3-1,TH,528855,11010,TH,NEURON,Gad1Gad2,Six3-Adcy1,Neuron.Gad1Gad2.Six3-Adcy1,Reticular formation,3-1,TH_3-1
+TH_3-10,TH,553398,10936,TH,NEURON,Slc17a6,Ebf1,Neuron.Slc17a6.Ebf1,Anterior pretectal nucleus (APT),3-10,TH_3-10
+TH_3-11,TH,154071,9472,TH,NEURON,Gad1Gad2,Ttn,Neuron.Gad1Gad2.Ttn,Neuron.Gad1Gad2.Ttn,3-11,TH_3-11
+TH_3-2,TH,569385,10877,TH,NEURON,Gad1Gad2,Six3-Sst,Neuron.Gad1Gad2.Six3-Sst,Reticular formation,3-2,TH_3-2
+TH_3-3,TH,979737,11503,TH,NEURON,Gad1Gad2,Pou6f2-Pax6,Neuron.Gad1Gad2.Pou6f2-Pax6,Zona incerta (ZI),3-3,TH_3-3
+TH_3-4,TH,465257,10496,TH,NEURON,Slc17a6,Pitx2,Neuron.Slc17a6.Pitx2,Subthalamic nucleus (STN),3-4,TH_3-4
+TH_3-5,TH,511230,10499,TH,NEURON,Gad1Gad2,Chrnb3,Neuron.Gad1Gad2.Chrnb3,interneuron;  Lateral Geniculate Nucleus  (LGN),3-5,TH_3-5
+TH_3-6,TH,448463,10899,TH,NEURON,Gad1Gad2,Gata3,Neuron.Gad1Gad2.Gata3,Periacqueductal gray (PAG) (or adjacent APTD),3-6,TH_3-6
+TH_3-7,TH,466669,10998,TH,NEURON,Slc17a6-Gad1Gad2,Asb4,Neuron.Slc17a6-Gad1Gad2.Asb4,Periventricular Fiber System (Pv),3-7,TH_3-7
+TH_3-8,TH,1366467,12010,TH,NEURON,Gad1Gad2,Col25a1,Neuron.Gad1Gad2.Col25a1,Neuron.Gad1Gad2.Col25a1,3-8,TH_3-8
+TH_3-9,TH,389192,11055,TH,NEURON,Slc17a6,Nrgn,Neuron.Slc17a6.Nrgn,Habenula (inferomedial and lateral),3-9,TH_3-9
+TH_4-1,TH,1996752,11569,TH,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,4-1,TH_4-1
+TH_4-2,TH,29136,5831,TH,ENDOTHELIAL_STALK,Flt1,Pi16,Endothelial_Stalk.Flt1.Pi16,Endothelial_Stalk.Flt1.Pi16,4-2,TH_4-2
+TH_4-3,TH,2617272,11781,TH,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,4-3,TH_4-3
+TH_4-4,TH,673773,10642,TH,ENDOTHELIAL_STALK,Flt1,Vwf,Endothelial_Stalk.Flt1.Vwf,Endothelial_Stalk.Flt1.Vwf,4-4,TH_4-4
+TH_5-1,TH,573197,10624,TH,MURAL,Rgs5Acta2,Cnn1,Mural.Rgs5Acta2.Cnn1,Mural.Rgs5Acta2.Cnn1,5-1,TH_5-1
+TH_5-2,TH,493826,10834,TH,MURAL,Rgs5Acta2,Car4,Mural.Rgs5Acta2.Car4,Mural.Rgs5Acta2.Car4,5-2,TH_5-2
+TH_6-1,TH,117777,9403,TH,ENDOTHELIAL_TIP,Dcn,Dcn,Endothelial_Tip.Dcn,Endothelial_Tip.Dcn,6-1,TH_6-1
+TH_6-2,TH,112008,8976,TH,ENDOTHELIAL_TIP,Dcn,Dcn.Nenf,Endothelial_Tip.Dcn.Nenf,Endothelial_Tip.Dcn.Nenf,6-2,TH_6-2
+TH_7-1,TH,85661,8482,TH,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,7-1,TH_7-1
+TH_7-2,TH,107411,9549,TH,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,7-2,TH_7-2
+TH_8-1,TH,3036685,11542,TH,OLIGODENDROCYTE,Trf,Klk6,Oligodendrocyte.Trf.Klk6,Oligodendrocyte.Trf.Klk6,8-1,TH_8-1
+TH_8-2,TH,18223043,13156,TH,OLIGODENDROCYTE,Trf,Il33,Oligodendrocyte.Trf.Il33,Oligodendrocyte.Trf.Il33,8-2,TH_8-2
+TH_8-3,TH,2133681,11280,TH,OLIGODENDROCYTE,Trf,Ctps,Oligodendrocyte.Trf.Ctps,Oligodendrocyte.Trf.Ctps,8-3,TH_8-3
+TH_8-4,TH,911875,10738,TH,OLIGODENDROCYTE,Trf,Ndrg2,Oligodendrocyte.Trf.Ndrg2,Oligodendrocyte.Trf.Ndrg2,8-4,TH_8-4
+TH_9-1,TH,161254,8785,TH,OLIGODENDROCYTE,Trf,Ndrg2,Oligodendrocyte.Trf.Ndrg2,Oligodendrocyte.Trf.Ndrg2,9-1,TH_9-1
